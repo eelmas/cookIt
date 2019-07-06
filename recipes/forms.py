@@ -2,7 +2,7 @@ from django import forms
 
 # from recipes.models import MeasureTable
 
-f = open("OPTIONS.txt", "r")
+f = open("OPTIONS.txt")
 
 
 class UserProduct(forms.Form):
@@ -18,3 +18,4 @@ class UserProduct(forms.Form):
 
     userProducts = forms.MultipleChoiceField(widget=forms.SelectMultiple(attrs={'class': 'recipes-user-products'}),
                                              choices=OPTIONS, label='')
+    f.close()
