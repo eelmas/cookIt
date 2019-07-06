@@ -1,4 +1,6 @@
 from django.db import models
+from django.db import migrations
+
 
 
 class Recipe(models.Model):

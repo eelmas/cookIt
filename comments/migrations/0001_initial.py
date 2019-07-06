@@ -8,6 +8,10 @@ class Migration(migrations.Migration):
 
     initial = True
 
+    run_before = [
+        ('recipes', '0001_initial'),
+    ]
+
     dependencies = [
         ('recipes', '0001_initial'),
     ]
