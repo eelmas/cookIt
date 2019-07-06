@@ -1,0 +1,3023 @@
+acı pul biber		10
+agave şurubu		20
+ananas		700
+antep fıstığı	kaşık	15
+antep fıstıklı dondurma	paket	300
+antep fıstığı		100
+antep fıstığı	avuç	30
+antep fıstığı	bardak	175
+antep fıstığı	fincan	75
+antep fıstığı	gram	1
+antep fıstığı	kahve fincanı	75
+antep fıstığı	su bardağı	175
+antep fıstığı	yemek kaşığı	15
+antep fıstığı	çay bardağı	75
+antep fıstığı	çay kaşığı	6
+antep fıstığı	çorba kaşığı	20
+antep fıstığı yağı	çay kaşığı	2
+armut		200
+arpa şehriye	kahve fincanı	50
+arpa şehriye	su bardağı	165
+arpa şehriye	tatlı kaşığı	7
+arpa şehriye	çay bardağı	80
+arpa şehriye	çay kaşığı	2
+arpa şehriye	çorba kaşığı	20
+arpacık soğan		25
+asma yaprağı		50
+avokado		140
+ay çekirdeği		35
+ayva çekirdeği		3
+ayvalık tostu ekmeği	dilim	40
+ayçiçeği yağı		70
+badem		30
+badem	kahve fincanı	40
+badem	su bardağı	125
+badem	tatlı kaşığı	8
+badem	çay bardağı	70
+badem	çay kaşığı	4
+badem	çorba kaşığı	20
+badem sütü		200
+baharat		3
+baileys irish cream	su bardağı	150
+bal		5
+besni üzümü	bardak	40
+beyaz biber		2
+beyaz toz biber		2
+beyaz çikolata		100
+bezelye		200
+biber salçası		15
+biberiye		5
+bisküvi		60
+bitter çikolata		20
+brüksel lahanası	adet	15
+brüksel lahanası	gram	1
+brüksel lahanası	paket	150
+brüksel lahanası	parça	75
+brüksel lahanası	su bardağı	60
+bulgur		150
+bulgur	kahve fincanı	50
+bulgur	tatlı kaşığı	10
+bulgur	çay bardağı	100
+bulgur	çorba kaşığı	20
+buğday	kahve fincanı	47
+buğday	su bardağı	155
+buğday	tatlı kaşığı	5
+buğday	çay bardağı	70
+buğday	çay kaşığı	2
+buğday	çorba kaşığı	10
+buğday nişastası		70
+cajun baharatı	çorba kaşığı	10
+chia tohumu		10
+damla çikolata		50
+defne yaprağı		2
+deniz tuzu		5
+dereotu		10
+dil		 30
+dil peyniri		30
+dolmalık fıstık		10
+domates		220
+domates salçası	kahve fincanı	60
+domates salçası	su bardağı	200
+domates salçası	tatlı kaşığı	4
+domates salçası	çay bardağı	90
+domates salçası	çay kaşığı	1
+domates salçası	çorba kaşığı	20
+elma sirkesi		5
+erişte	kahve fincanı	25
+erişte	su bardağı	80
+erişte	tatlı kaşığı	5
+erişte	çay bardağı	40
+erişte	çay kaşığı	2
+erişte	çorba kaşığı	10
+esmer şeker		5
+et suyu		200
+fasulye turşusu kavurması		100
+fesleğen		2
+frenk soğanı		70
+frenk soğanı	demet	70
+frenk soğanı	gram	1
+frenk soğanı	çorba kaşığı	10
+frenk üzümü		100
+frenk üzümü	gram	1
+fındık	su bardağı	120
+fındık	tatlı kaşığı	8
+fındık	çay bardağı	65
+fındık	çay kaşığı	2
+fıstık		100
+fıstık ezmesi		12
+galeta unu	kahve fincanı	30
+galeta unu	su bardağı	100
+galeta unu	tatlı kaşığı	5
+galeta unu	çay bardağı	60
+galeta unu	çay kaşığı	3
+galeta unu	çorba kaşığı	15
+galeta unu		100
+guacamole		250
+gıda boyası		10
+hamburger ekmeği		250
+hazır karamel sos		128
+hazır meyve sosu		150
+haşhaş		110
+haşhaş	kahve fincanı	40
+haşhaş	su bardağı	110
+haşhaş	tatlı kaşığı	5
+haşhaş	çay bardağı	65
+haşhaş	çay kaşığı	2
+haşhaş	çorba kaşığı	15
+hindistan cevizi	kahve fincanı	20
+hindistan cevizi	tatlı kaşığı	3
+hindistan cevizi	çay kaşığı	2
+hindistan cevizi		85
+hindistan cevizi	fincan	70
+hindistan cevizi	yemek kaşığı	10
+hindistan cevizi	çorba kaşığı	10
+hindistan cevizi aromalı rom	litre	750
+hindistan cevizi sütü	su bardağı	200
+hindistan cevizi sütü	çay bardağı	100
+hindistan cevizi sütü	çay kaşığı	2
+hindistan cevizi yağı	litre	1000
+hindistan cevizi yağı	su bardağı	200
+hindistan cevizi yağı	yemek kaşığı	10
+hindistan cevizi yağı	çorba kaşığı	10
+humus		140
+jalapeno		150
+jambon		300
+kabartma tozu		11
+kahve		150
+kakao		200
+kakao	kahve fincanı	30
+kakao	su bardağı	100
+kakao	tatlı kaşığı	5
+kakao	çay bardağı	55
+kakao	çay kaşığı	2
+kakao	çorba kaşığı	10
+kakaolu pötibör bisküvi		175
+kapari çiçeği		40
+kara lahana		50
+karabiber		2
+karabuğday		200
+karabuğday unu		200
+karamel sos		128
+karanfil		10
+karbonat		2
+karnabahar		150
+karpuz		5000
+karpuz posası		100
+kars gravyeri	gram	1
+kaymak		50
+kaşar		30
+kedi dili		150
+kemalpaşa	paket	150
+kereviz sapları		100
+keten tohumu		15
+ketçap		300
+keçi peyniri		50
+kimyon		5
+kiraz domates		90
+kişniş		3
+kola		200
+kornişon turşu		150
+krem peynir		250
+krem şanti		150
+krema		210
+krema	kahve fincanı	65
+krema	tatlı kaşığı	5
+krema	çay bardağı	100
+krema	çay kaşığı	2
+krema	çorba kaşığı	10
+krep		50
+kuru fasulye	kahve fincanı	55
+kuru fasulye	su bardağı	180
+kuru fasulye	tatlı kaşığı	7
+kuru fasulye	çay bardağı	80
+kuru fasulye	çay kaşığı	3
+kuru fasulye	çorba kaşığı	17
+kuru kayısı		25
+kuru meyveler		30
+kuru üzüm		80
+kurutulmuş domates		10
+kuş üzümü		15
+köfte baharı		82
+köri		5
+külah		10
+kırmızı mercimek	kahve fincanı	55
+kırmızı mercimek	su bardağı	180
+kırmızı mercimek	tatlı kaşığı	7
+kırmızı mercimek	çay bardağı	80
+kırmızı mercimek	çay kaşığı	3
+kırmızı mercimek	çorba kaşığı	17
+kırmızı lahana		500
+kırmızı meyveler		150
+kırmızı pul biber		10
+kıvırcık		100
+lavaş		65
+limon		100
+limon kabuğu		30
+limon tuzu		10
+lingonberry reçeli		30
+makarna	kahve fincanı	35
+makarna	su bardağı	110
+makarna	tatlı kaşığı	7
+makarna	çay bardağı	50
+makarna	çay kaşığı	3
+makarna	çorba kaşığı	15
+manda kaymağı		30
+mantar		100
+maraş dondurması	gram	1
+margarin	kahve fincanı	55
+margarin	tatlı kaşığı	5
+margarin	çay kaşığı	2
+margarin	çorba kaşığı	17
+marmelat		20
+marshmallow		250
+mavi haşhaş		10
+maydanoz		10
+mayonez		25
+meksika fasulyesi	gram	1
+meksika fasulyesi	kutu	410
+meksika fasulyesi	su bardağı	200
+meksika fasulyesi	çay bardağı	100
+meksika lager		250
+mozzarella		 150
+muskat		15
+muz		170
+mısır unu	kahve fincanı	40
+mısır unu	su bardağı	120
+mısır unu	tatlı kaşığı	5
+mısır unu	çay bardağı	60
+mısır unu	çay kaşığı	2
+mısır unu	çorba kaşığı	10
+nar		160
+nar ekşisi		10
+nişasta		70
+nişasta	kahve fincanı	30
+nişasta	su bardağı	100
+nişasta	tatlı kaşığı	10
+nişasta	çay bardağı	50
+nişasta	çay kaşığı	3
+nişasta	çorba kaşığı	20
+nohut		120
+nohut	kahve fincanı	50
+nohut	su bardağı	120
+nohut	tatlı kaşığı	5
+nohut	çay kaşığı	2
+nohut	çorba kaşığı	15
+norveç somon	gram	1
+paprika		10
+parmesan		35
+pasta süsleri		250
+pasta süsü şekerlemeleri		250
+pesto sos		30
+pirinç		175
+pirinç	kahve fincanı	50
+pirinç	su bardağı	175
+pirinç	tatlı kaşığı	10
+pirinç	çay bardağı	100
+pirinç	çay kaşığı	3
+pirinç	çorba kaşığı	20
+pirinç unu	kahve fincanı	35
+pirinç unu	su bardağı	125
+pirinç unu	tatlı kaşığı	5
+pirinç unu	çay bardağı	70
+pirinç unu	çay kaşığı	3
+pirinç unu	çorba kaşığı	20
+pişmaniye		40
+portakal		220
+portakal kabuğu		60
+portakal suyu		200
+pudra şekeri	kahve fincanı	40
+pudra şekeri	su bardağı	150
+pudra şekeri	tatlı kaşığı	10
+pudra şekeri	çay bardağı	100
+pudra şekeri	çay kaşığı	5
+pudra şekeri	çorba kaşığı	20
+pudra şekeri		250
+renkli draje		250
+reyhan		20
+rezene	kahve fincanı	50
+rezene	su bardağı	140
+rezene	tatlı kaşığı	3
+rezene	çay bardağı	70
+rezene	çay kaşığı	2
+rezene	çorba kaşığı	9
+reçel		20
+roka		20
+rokfor peyniri		30
+royal icing		60
+rulo gofret		30
+rus salatası	gram	1
+rus salatası	yemek kaşığı	5
+salatalık		120
+salatalık turşusu		60
+salça		10
+sarımsak		10
+sarımsak tozu		4
+sarımsaklı yoğurt		200
+sirke		180
+sirke	kahve fincanı	70
+sirke	su bardağı	180
+sirke	tatlı kaşığı	5
+sirke	çay bardağı	100
+sirke	çay kaşığı	2
+sirke	çorba kaşığı	10
+sivri biber		150
+siyah zeytin		20
+soda		200
+soya sosu		25
+sriracha sosu	çay kaşığı	3
+su	kahve fincanı	75
+su	tatlı kaşığı	4
+su	çay bardağı	100
+su	çay kaşığı	2
+su	çorba kaşığı	15
+susam		40
+susam	kahve fincanı	40
+susam	su bardağı	110
+susam	tatlı kaşığı	4
+susam	çay bardağı	65
+susam	çay kaşığı	2
+susam	çorba kaşığı	10
+süsleme şekerleri		250
+süt		200
+süt	kahve fincanı	75
+süt	su bardağı	200
+süt	tatlı kaşığı	4
+süt	çay bardağı	115
+süt	çay kaşığı	2
+süt	çorba kaşığı	15
+süzme yoğurt		90
+sıvı yağ	kahve fincanı	60
+sıvı yağ	çay kaşığı	2
+taco ekmeği		25
+tahin		30
+tane karabiber		1
+tarçın		20
+tarçın	kahve fincanı	60
+tarçın	su bardağı	200
+tarçın	tatlı kaşığı	6
+tarçın	çay bardağı	0
+tarçın	çorba kaşığı	20
+tatlı soya sosu		25
+tavuk suyu		200
+taze fasulye		150
+taze soğan		10
+tereyağı		30
+ton balığı		125
+tortilla cipsi		60
+tost		175
+tost ekmeği		30
+tost peyniri		25
+toz kişniş		5
+toz şeker	kahve fincanı	50
+toz şeker	tatlı kaşığı	8
+toz şeker	çay bardağı	100
+toz şeker	çay kaşığı	4
+toz şeker	çorba kaşığı	20
+toz şeker		50
+turp		230
+turşu		50
+tuz	kahve fincanı	60
+tuz	su bardağı	200
+tuz	tatlı kaşığı	5
+tuz	çay bardağı	100
+tuz	çay kaşığı	2
+tuz	çorba kaşığı	10
+türk kahvesi	tatlı kaşığı	5
+türk kahvesi	yemek kaşığı	10
+türk kahvesi	çay kaşığı	3
+un		110
+un	kahve fincanı	40
+un	su bardağı	110
+un	tatlı kaşığı	10
+un	çay bardağı	65
+un	çay kaşığı	4
+un	çorba kaşığı	20
+vanilya		5
+vanilyalı dondurma		50
+vanilyalı puding		125
+vişne		50
+wasabi		5
+worcestershire sos	yemek kaşığı	10
+worcestershire sosu	çay kaşığı	2
+worcestershire sosu	çorba kaşığı	10
+yaban mersini		100
+yağ		250
+yağlı kağıt		0
+yengeç eti		150
+yenibahar		2
+yeşil biber		50
+yeşil fıstık		20
+yeşil soğan		50
+yeşil zeytin		20
+yeşillik		200
+yoğurt		210
+yoğurt	kahve fincanı	64
+yoğurt	su bardağı	210
+yoğurt	tatlı kaşığı	20
+yoğurt	çay bardağı	120
+yoğurt	çay kaşığı	0
+yoğurt	çorba kaşığı	40
+yulaf		100
+yumurta akı		30
+yumurta sarısı		20
+zencefil		2
+zerdeçal		5
+zeytin		20
+zeytin ezmesi		10
+zeytinyağı		220
+zeytinyağı	kahve fincanı	65
+zeytinyağı	tatlı kaşığı	5
+acur	adet	10
+acur	gram	1
+acı biber salçası	tatlı kaşığı	5
+acı biber salçası	yemek kaşığı	10
+acı biber salçası	çay kaşığı	2
+acı kırmızı biber	çay kaşığı	2
+acı kırmızı biber	çorba kaşığı	10
+acı pul biber	çay kaşığı	2
+acı pul biber	çorba kaşığı	10
+acı sos	damla	2
+acı sos	tatlı kaşığı	5
+acı sos	yemek kaşığı	10
+acı sos	çay kaşığı	2
+acı toz kırmızı biber	çay kaşığı	2
+adaçayı		5
+adaçayı	adet	5
+adaçayı	demet	5
+adaçayı	yaprak	1
+adaçayı yaprağı	adet	1
+adaçayı yaprağı	tutam	1
+agave şurubu	gram	1
+agave şurubu	litre	750
+agave şurubu	tatlı kaşığı	2
+agave şurubu	yemek kaşığı	10
+agave şurubu	çorba kaşığı	10
+ahududu	fincan	100
+ahududu	gram	1
+ahududu	su bardağı	160
+ak biber	tatlı kaşığı	5
+ak biber	tutam	1
+akçaağaç şurubu	bardak	180
+akçaağaç şurubu	su bardağı	180
+akçaağaç şurubu	yemek kaşığı	10
+alabalık	adet	200
+alabaş	adet	150
+alkol	gram	1
+amber	gram	1
+ananas	dilim	90
+ananas	su bardağı	200
+ananas suyu	bardak	200
+ananas suyu	litre	1000
+ananas suyu	çay bardağı	100
+anason	tatlı kaşığı	5
+anason	çay kaşığı	2
+antrikot	gram	1
+ançuez	adet	80
+ançüez	adet	80
+ançüez	gram	1
+ançüez fileto	kutu	90
+arborio pirinci	su bardağı	180
+armut	adet	200
+armut	gram	1
+armut sapı		3
+arpa şehriye	bardak	160
+arpa şehriye	gram	1
+arpa şehriye	paket	500
+arpa şehriye	yemek kaşığı	20
+arpacık soğan	adet	5
+arpacık soğan	gram	1
+arpacık soğan	çorba kaşığı	10
+arpacık soğanı	adet	5
+arpacık soğanı	gram	1
+asma yaprağı	gram	1
+aspir	tutam	0.5
+aspirin	adet	0.5
+atom salata	adet	500
+avokado	adet	140
+avokado	dilim	15
+avokado püresi	yemek kaşığı	10
+ay çekirdeği	gram	1
+ay çekirdeği	yemek kaşığı	10
+ay çekirdeği	çay bardağı	40
+ay çekirdeği içi	gram	1
+ay çekirdeği içi	yemek kaşığı	10
+ayran	litre	750
+ayran	su bardağı	150
+ayran	çay bardağı	75
+ayva	adet	250
+ayva	gram	1
+ayva	tane	250
+ayva reçeli	fincan	80
+ayçiçek yağı		200
+ayçiçek yağı	bardak	200
+ayçiçek yağı	su bardağı	200
+ayçiçek yağı	yemek kaşığı	10
+ayçiçek yağı	çay bardağı	70
+ayçiçeği yağı	bardak	200
+ayçiçeği yağı	kahve fincanı	40
+ayçiçeği yağı	kaşık	10
+ayçiçeği yağı	litre	1000
+ayçiçeği yağı	su bardağı	200
+ayçiçeği yağı	tatlı kaşığı	5
+ayçiçeği yağı	yemek kaşığı	10
+ayçiçeği yağı	çay bardağı	70
+ayçiçeği yağı	çorba kaşığı	10
+az süt	su bardağı	200
+az süt	çay bardağı	100
+açık deniz somonu	adet	150
+baby şiş	gram	1
+badem	adet	2
+badem	fincan	50
+badem	gram	1
+badem	kase	150
+badem	yemek kaşığı	10
+badem aroması	damla	1
+badem ezmesi	fincan	60
+badem ezmesi	gram	1
+badem sütü	bardak	200
+badem sütü	su bardağı	200
+badem sütü	yemek kaşığı	10
+badem tozu	gram	1
+badem tozu	yemek kaşığı	13
+badem unu	bardak	150
+badem unu	gram	1
+badem unu	çay bardağı	75
+baget	adet	300
+baget ekmeği	dilim	25
+baharat	bağ	10
+baharat	tatlı kaşığı	5
+baharat karışımı	gram	1
+baharatlar		2
+baharatlar	bağ	10
+baharatlar	çay kaşığı	2
+baharatlı kutu peynir	gram	1
+baharatlı taze kutu peynir	gram	1
+bakla	gram	1
+baklava yufkası	adet	32
+baklava yufkası	yaprak	32
+baklavalık yufka	adet	32
+baklavalık yufka	paket	480
+bal	bağ	6
+bal	fincan	90
+bal	gram	1
+bal	kahve fincanı	40
+bal	kaşık	10
+bal	litre	500
+bal	su bardağı	100
+bal	tatlı kaşığı	5
+bal	yemek kaşığı	10
+bal	çay bardağı	50
+bal	çay kaşığı	2
+bal	çorba kaşığı	10
+balkabağı	dilim	240
+balkabağı	gram	1
+balkabağı tatlısı	su bardağı	150
+balkabağı	adet	1440
+balkabağı	bardak	250
+balkabağı	su bardağı	250
+balkabağı püresi	su bardağı	250
+balkabağı püresi	çay bardağı	150
+ballı köri ezmesi	çorba kaşığı	10
+ballı viski	litre	500
+balzamik sirke	bardak	200
+balzamik sirke	kaşık	10
+balzamik sirke	litre	1000
+balzamik sirke	tatlı kaşığı	5
+balzamik sirke	yemek kaşığı	10
+balzamik sirke	çorba kaşığı	10
+balzamik sirkesi	yemek kaşığı	10
+balık bulyon	paket	60
+balık yumurtası	kutu	250
+bamya	adet	20
+bamya	avuç	30
+bamya	bardak	120
+bamya	gram	1
+bamya	paket	500
+barbekü sos	yemek kaşığı	10
+barbekü sos	çay bardağı	60
+barbunya	gram	1
+barbunya	kilo	1000
+barbunya	su bardağı	160
+bayat ekmek	adet	200
+bayat ekmek	avuç	30
+bayat ekmek	dilim	30
+bayat ekmek	kahve fincanı	60
+bayat ekmek	su bardağı	150
+bayat ekmek	yemek kaşığı	10
+bayat ekmek kırıntısı	su bardağı	150
+bayat kepekli ekmek	bardak	150
+bazlama	adet	60
+bazlama ekmeği	adet	60
+beyaz biber	tatlı kaşığı	5
+beyaz biber	çay kaşığı	2
+beyaz ekmek hamuru	adet	200
+beyaz lahana		15
+beyaz lahana	adet	700
+beyaz lahana	yaprak	15
+beyaz marshmallow	tane	5
+beyaz peynir		30
+beyaz peynir	adet	30
+beyaz peynir	avuç	30
+beyaz peynir	bardak	100
+beyaz peynir	dilim	30
+beyaz peynir	gram	1
+beyaz peynir	kase	200
+beyaz peynir	kutu	250
+beyaz peynir	paket	250
+beyaz peynir	parça	30
+beyaz peynir	su bardağı	100
+beyaz peynir	yemek kaşığı	10
+beyaz peynir	çay bardağı	50
+beyaz peynir	çorba kaşığı	10
+beyaz rom	litre	750
+beyaz un	gram	1
+beyaz çay	su bardağı	200
+beyaz çikolata	gram	1
+beyaz çikolata	parça	5
+beyaz çikolata sosu	paket	128
+beyaz şarap	bardak	150
+beyaz şarap	fincan	90
+beyaz şarap	kahve fincanı	50
+beyaz şarap	litre	750
+beyaz şarap	su bardağı	150
+beyaz şarap	çay bardağı	70
+beyaz şarap sirkesi	yemek kaşığı	10
+beyaz şarap sirkesi	çorba kaşığı	10
+beze	adet	18
+bezelye	adet	2
+bezelye	avuç	50
+bezelye	bardak	300
+bezelye	gram	1
+bezelye	kase	250
+bezelye	kutu	450
+bezelye	paket	450
+bezelye	yemek kaşığı	10
+bezelye	çay bardağı	150
+bezelye konservesi	adet	830
+bezelye	su bardağı	300
+beşamel sos	paket	70
+beşamel sos	su bardağı	225
+biber		20
+biber	adet	20
+biber	gram	1
+biber	parça	10
+biber	tane	20
+biber	tatlı kaşığı	5
+biber	tutam	3
+biber	yemek kaşığı	10
+biber	çay kaşığı	2
+biber	çorba kaşığı	10
+biber salçası	tatlı kaşığı	5
+biber salçası	yemek kaşığı	10
+biber salçası	çay kaşığı	3
+biber salçası	çorba kaşığı	10
+biberiye	adet	3
+biberiye	dal	3
+biberiye	tatlı kaşığı	5
+biberiye	tutam	2
+biberiye	yemek kaşığı	10
+biberiye	çay kaşığı	2
+biberiye dalı	adet	3
+biberiye yaprağı	çay kaşığı	2
+biberli salam	gram	1
+biftek	adet	60
+biftek	dilim	60
+biftek	parça	20
+bira	su bardağı	200
+bira	yemek kaşığı	12
+tuz		1
+bisküvi	adet	12
+bisküvi	gram	1
+bisküvi	paket	175
+bitkisel tatlandırıcı	tatlı kaşığı	5
+bitkisel yağ	yemek kaşığı	12
+bitkisel yağ	çorba kaşığı	12
+bitter çikolata	adet	5
+bitter çikolata	dilim	5
+bitter çikolata	gram	1
+bitter çikolata	kare	5
+bitter çikolata	paket	50
+bitter çikolata	parça	5
+bitter çikolata	su bardağı	75
+bonfile	adet	320
+bonfile	dilim	100
+bonfile	gram	1
+bourbon	litre	750
+boza	yemek kaşığı	12
+brendi	yemek kaşığı	12
+brokoli	adet	30
+brokoli	avuç	30
+brokoli	bardak	150
+brokoli	dal	30
+brokoli	demet	150
+brokoli	gram	1
+brokoli	paket	150
+brokoli	parça	20
+brokoli	su bardağı	150
+brokoli filizi	fincan	100
+bulgur	bardak	150
+bulgur	fincan	110
+bulgur	gram	1
+bulgur	kaşık	12
+bulgur	su bardağı	150
+bulgur	yemek kaşığı	12
+bulyon	yemek kaşığı	10
+burbon viski	çay kaşığı	2
+burger ekmeği	adet	52
+but		130
+but	adet	130
+buz		5
+buz	adet	5
+buz	kase	150
+buz	küp	5
+buz	parça	5
+buz	su bardağı	200
+buz küpü	adet	5
+buzlu su	çay bardağı	100
+buğday		200
+buğday	avuç	30
+buğday	bardak	200
+buğday	gram	1
+buğday	kase	150
+buğday	yemek kaşığı	10
+buğday nişastası	gram	1
+buğday nişastası	paket	500
+buğday nişastası	su bardağı	200
+buğday nişastası	tatlı kaşığı	5
+buğday nişastası	yemek kaşığı	10
+buğday nişastası	çay bardağı	70
+buğday nişastası	çay kaşığı	2
+buğday nişastası	çorba kaşığı	10
+buğday unu		110
+buğday unu	gram	1
+buğday unu	kaşık	20
+buğday unu	su bardağı	110
+böbrek	adet	100
+börülce	demet	140
+börülce	gram	1
+börülce	su bardağı	100
+böğürtlen		225
+böğürtlen	adet	3
+böğürtlen	fincan	100
+böğürtlen	gram	1
+böğürtlen	kase	225
+böğürtlen	su bardağı	160
+böğürtlen	çorba kaşığı	10
+kuzu	adet	35000
+bıldırcın	adet	120
+camu camu tozu	yemek kaşığı	10
+ceviz		25
+ceviz	adet	5
+ceviz	avuç	25
+ceviz	bardak	80
+ceviz	gram	1
+ceviz	kahve fincanı	20
+ceviz	kase	80
+ceviz	kilo	1000
+ceviz	parça	5
+ceviz	su bardağı	80
+ceviz	tatlı kaşığı	5
+ceviz	yemek kaşığı	10
+ceviz	çay bardağı	60
+ceviz	çay kaşığı	2
+ceviz	çorba kaşığı	10
+ceviz içi	gram	1
+cheddar	dilim	15
+cheddar	gram	1
+cheddar	su bardağı	30
+cheddar peyniri		15
+cheddar peyniri	dilim	15
+cheddar peyniri	gram	1
+cheddar peyniri	su bardağı	30
+chia tohumu	kaşık	10
+chia tohumu	tatlı kaşığı	5
+chia tohumu	yemek kaşığı	10
+chia tohumu	çay bardağı	100
+chia tohumu	çorba kaşığı	10
+chili biber	adet	18
+chilli biberi	adet	18
+cips	kase	250
+cips	paket	500
+ciğer	adet	250
+ciğer	gram	1
+ciğer	kilo	1000
+damla sakızı	adet	3
+damla sakızı	paket	45
+damla sakızı	parça	3
+damla sakızı	çay kaşığı	3
+damla çikolata	bardak	200
+damla çikolata	fincan	110
+damla çikolata	gram	1
+damla çikolata	su bardağı	200
+damla çikolata	yemek kaşığı	10
+damla çikolata	çay bardağı	100
+dana biftek	adet	100
+dana biftek	gram	1
+dana biftek	parça	30
+dana ciğer	adet	250
+dana ciğer	gram	1
+dana ciğeri	adet	250
+dana ciğeri	gram	1
+dana eti	gram	1
+dana jambon	dilim	30
+dana jambon	gram	1
+dana kuşbaşı	gram	1
+dana kuşbaşı et	gram	1
+dana külbastı eti	gram	1
+dana kıyma	gram	1
+dana rosto	gram	1
+dana şinitzel	gram	1
+dağ kekiği		2
+dağ kekiği	tatlı kaşığı	2
+defne	yaprak	1
+defne yaprağı	adet	1
+defne yaprağı	dal	1
+defne yaprağı	demet	20
+defne yaprağı	tane	1
+defne yaprağı	tutam	2
+dekor şekeri		200
+dekor şekeri	paket	200
+deniz börülcesi	avuç	100
+deniz börülcesi	demet	140
+deniz tuzu	avuç	30
+deniz tuzu	gram	1
+deniz tuzu	tatlı kaşığı	6
+deniz tuzu	çay kaşığı	3
+deniz yosunu	tane	200
+deniz çuprası	adet	200
+dereotu	adet	3
+dereotu	avuç	70
+dereotu	bağ	100
+dereotu	dal	3
+dereotu	demet	100
+dereotu	su bardağı	200
+dereotu	tatlı kaşığı	5
+dereotu	tutam	2
+dereotu	yaprak	3
+dereotu	yemek kaşığı	10
+dereotu	çay bardağı	100
+dereotu	çay kaşığı	2
+dereotu	çorba kaşığı	10
+dil	 dilim	10
+dil	 paket	60
+dil	gram	1
+dil balığı	adet	150
+dil balığı	gram	1
+dil peyniri	dilim	20
+dil peyniri	gram	1
+dil peyniri	paket	250
+dil peyniri	parça	50
+dolma baharı	tatlı kaşığı	5
+dolma baharı	çay kaşığı	2
+dolma fıstığı	kahve fincanı	60
+dolma fıstığı	yemek kaşığı	12
+dolmalık biber	adet	40
+dolmalık biber	gram	1
+dolmalık biber	tane	40
+dolmalık fıstık	adet	2
+dolmalık fıstık	avuç	30
+dolmalık fıstık	fincan	90
+dolmalık fıstık	gram	1
+dolmalık fıstık	kahve fincanı	60
+dolmalık fıstık	kaşık	12
+dolmalık fıstık	paket	100
+dolmalık fıstık	su bardağı	150
+dolmalık fıstık	tatlı kaşığı	5
+dolmalık fıstık	yemek kaşığı	12
+dolmalık fıstık	çay bardağı	70
+dolmalık fıstık	çorba kaşığı	12
+dolmalık üzüm	çay bardağı	100
+domates	adet	110
+domates	bardak	150
+domates	dilim	15
+domates	gram	1
+domates	kase	400
+domates	kilo	1000
+domates	kutu	1000
+domates	küp	25
+domates	su bardağı	150
+domates	tane	110
+domates	yemek kaşığı	25
+domates püresi	gram	1
+domates püresi	litre	1000
+domates püresi	su bardağı	200
+domates püresi	yemek kaşığı	20
+domates püresi	çay bardağı	100
+domates püresi	çorba kaşığı	20
+domates salçası	kaşık	20
+domates salçası		20
+domates salçası	gram	1
+domates salçası	yemek kaşığı	20
+domates suyu	bardak	200
+domates suyu	litre	1000
+domates suyu	su bardağı	200
+domates suyu	çorba kaşığı	10
+dondurma		50
+dondurma	adet	50
+dondurma	gram	1
+doğal tatlandırıcı	çay kaşığı	2
+draje çikolata	paket	200
+draje şeker	paket	200
+dut	su bardağı	200
+dövmelik buğday	bardak	200
+düşük yağlı krema	gram	1
+ebegümeci	bağ	50
+ebegümeci	demet	50
+ebegümeci	gram	1
+ekmek		300
+ekmek	adet	300
+ekmek	baget	300
+ekmek	bardak	200
+ekmek	dilim	25
+ekmek	fincan	110
+ekmek	gram	1
+ekmek	kahve fincanı	90
+ekmek	kare	100
+ekmek	paket	130
+ekmek	su bardağı	200
+ekmek	yemek kaşığı	15
+ekmek kırıntısı	kaşık	15
+ekmek kırıntısı	su bardağı	200
+ekmek kırıntısı	yemek kaşığı	15
+ekmek kırıntısı	çorba kaşığı	15
+ekmeklik hamur	adet	500
+ekşi krema	gram	1
+ekşi krema	yemek kaşığı	10
+ekşi maya	gram	1
+ekşi mayalı ekmek	adet	300
+ekşimik	gram	1
+ekşimik	su bardağı	150
+elma		100
+elma	adet	100
+elma	bardak	130
+elma	gram	1
+elma püresi	gram	1
+elma püresi	su bardağı	250
+elma sirkesi	fincan	120
+elma sirkesi	litre	1000
+elma sirkesi	su bardağı	200
+elma sirkesi	tatlı kaşığı	5
+elma sirkesi	yemek kaşığı	10
+elma sirkesi	çay bardağı	100
+elma sirkesi	çorba kaşığı	10
+elma sosu	litre	1000
+elma suyu	litre	1000
+elma suyu	su bardağı	200
+elmanın çekirdekleri	adet	1
+enginar	adet	100
+enginar	kutu	300
+enginar	su bardağı	150
+enginar kalbi	adet	75
+enginar kalbi	kutu	300
+enginar kalbi	parça	300
+enginar suyu	çay bardağı	100
+erik	adet	10
+erik	gram	1
+erik ekşisi	tatlı kaşığı	5
+erik kurusu	çay bardağı	100
+erik marmeladı	kavanoz	380
+eritilmiş tereyağı	gram	1
+eritilmiş tereyağı	paket	250
+eritilmiş tereyağı	yemek kaşığı	10
+eritilmiş tereyağı	çay bardağı	60
+erişte	avuç	30
+erişte	bardak	100
+erişte	gram	1
+erişte	paket	500
+esmer şeker	bardak	135
+esmer şeker	fincan	90
+esmer şeker	gram	1
+esmer şeker	kase	150
+esmer şeker	su bardağı	135
+esmer şeker	tatlı kaşığı	5
+esmer şeker	yemek kaşığı	13
+esmer şeker	çay bardağı	55
+esmer şeker	çay kaşığı	2
+esmer şeker	çorba kaşığı	13
+espresso	litre	750
+espresso	çay kaşığı	2
+et	adet	500
+et	gram	1
+et	kilo	1000
+et bulyon	paket	750
+et bulyon	su bardağı	150
+et suyu	bardak	160
+et suyu	küp	15
+et suyu	litre	800
+et suyu	su bardağı	160
+et suyu bulyonu	adet	15
+etil alkol	gram	1
+ev yoğurdu	bardak	200
+ev yoğurdu	yemek kaşığı	20
+evelik yaprağı	bağ	100
+ezilmiş vanilya çubuğu	adet	3
+fasulye	adet	12
+fasulye	gram	1
+fasulye	su bardağı	110
+fesleğen	bağ	50
+fesleğen	dal	5
+fesleğen	demet	50
+fesleğen	fincan	70
+fesleğen	gram	1
+fesleğen	paket	50
+fesleğen	tatlı kaşığı	5
+fesleğen	tutam	2
+fesleğen	yaprak	5
+fesleğen	yemek kaşığı	10
+fesleğen	çay kaşığı	2
+fesleğen	çimdik	2
+fesleğen	çorba kaşığı	10
+fesleğen yaprağı		5
+fesleğen yaprağı	adet	5
+fesleğen yaprağı	demet	50
+fesleğen yaprağı	fincan	70
+fesleğen yaprağı	paket	50
+fettuccine	gram	1
+fettuccine makarna	gram	1
+fettuccine makarna	paket	500
+fettuccini	gram	1
+file fıstık	gram	1
+filizlendirilmiş mercimek	çorba kaşığı	10
+firik	su bardağı	150
+frambuaz		10
+frambuaz	adet	10
+frambuaz	gram	1
+frambuaz	kase	100
+frambuaz	kutu	100
+frambuaz	paket	100
+frambuaz	su bardağı	160
+frambuaz reçeli	su bardağı	160
+frambuaz reçeli	yemek kaşığı	10
+frenk soğanı	avuç	10
+frenk soğanı	dal	10
+frenk üzümü	adet	2
+füme dil	dilim	10
+fındık		24
+fındık	kahve fincanı	35
+fındık	adet	2
+fındık	avuç	24
+fındık	bardak	105
+fındık	fincan	100
+fındık	gram	1
+fındık	kase	160
+fındık	yemek kaşığı	10
+fındık	çorba kaşığı	10
+fındık ezmesi	gram	1
+fındık ezmesi	yemek kaşığı	15
+fındık ezmesi	çorba kaşığı	15
+fındık yağı	yemek kaşığı	15
+fırın poşeti	adet	0
+fıstık	gram	1
+fıstık	kase	120
+fıstık	su bardağı	150
+fıstık	tatlı kaşığı	5
+fıstık	yemek kaşığı	10
+fıstık	çorba kaşığı	10
+fıstık ezmesi	su bardağı	150
+fıstık ezmesi	yemek kaşığı	12
+galeta unu	bardak	100
+galeta unu	fincan	70
+galeta unu	gram	1
+galeta unu	kase	70
+galeta unu	kaşık	10
+galeta unu	paket	250
+galeta unu	yemek kaşığı	10
+garam masala	çorba kaşığı	10
+garnitür	avuç	10
+garnitür	kavanoz	500
+garnitür	kutu	500
+garnitür	paket	500
+garnitür	yemek kaşığı	10
+gazoz	çay bardağı	100
+glikoz	yemek kaşığı	10
+granola	yemek kaşığı	10
+granül bezelye proteini	gram	1
+granül kahve	fincan	110
+granül kahve	kaşık	7
+granül kahve	su bardağı	150
+granül kahve	tatlı kaşığı	5
+granül kahve	yemek kaşığı	7
+granül kahve	çay kaşığı	2
+granül kahve	çorba kaşığı	7
+greyfurt	adet	250
+greyfurt	tane	250
+greyfurt suyu	litre	1000
+göbek	adet	300
+göbek salata	adet	300
+göce	su bardağı	150
+göğüs eti	adet	60
+gül yaprağı	gram	1
+gül yaprağı	yemek kaşığı	8
+gül şerbeti	yemek kaşığı	12
+güllaç	paket	1000
+güllaç	yaprak	35
+güllaç yaprağı	adet	35
+güllaç yaprağı	gram	1
+güllaç yaprağı	tane	35
+güllaç yufkası	adet	35
+güllü lokum	adet	9
+gıda boyası	damla	1
+gıda boyası	çay kaşığı	1
+hamburger ekmeği	adet	52
+hamburger ekmeği	dilim	20
+hamsi	adet	10
+hamsi	gram	1
+hardal	tatlı kaşığı	5
+hardal	yemek kaşığı	10
+hardal	çay kaşığı	2
+hardal	çorba kaşığı	10
+hardal otu	demet	100
+hardal otu	gram	1
+havuç	adet	40
+havuç	bardak	120
+havuç	gram	1
+havuç	su bardağı	120
+havuç	tane	40
+havuç	yemek kaşığı	10
+havuç	çay bardağı	60
+kahve	yemek kaşığı	5
+hazır kahve	bardak	200
+hazır kahve	tatlı kaşığı	4
+hazır kahve	yemek kaşığı	10
+hazır karamel sos	su bardağı	250
+krep hamuru	gram	1
+hazır köfte	adet	40
+lazanya	parça	10
+hazır mantı	paket	400
+hazır pasta tabanı	paket	250
+çiğ krema	bardak	200
+haşhaş	yemek kaşığı	10
+haşhaş ezmesi	gram	1
+haşhaş ezmesi	çorba kaşığı	12
+kefal	gram	1
+mısır	yemek kaşığı	10
+mısır taneleri	yemek kaşığı	10
+pancar	dilim	10
+hellim	 adet	25
+hellim	gram	1
+hellim	paket	250
+hellim peyniri	adet	25
+hellim peyniri	gram	1
+hellim peyniri	paket	250
+hibiskus	yaprak	5
+hindi	adet	1000
+hindi	gram	1
+hindi göğsü	gram	1
+hindi göğüs	adet	60
+hindi jambon	adet	10
+hindi jambon	dilim	10
+hindi salam	dilim	7
+hindiba	adet	10
+hindistan cevizi	gram	1
+hindistan cevizi	avuç	25
+hindistan cevizi	bardak	85
+hindistan cevizi	su bardağı	85
+hindistan cevizi	çay bardağı	40
+hindistan cevizi sütü	kutu	750
+hindistan cevizi sütü	litre	750
+hurma	adet	15
+hurma	gram	1
+hurma	su bardağı	150
+hurma	çay bardağı	75
+ilikli kemik	adet	300
+ilikli kemik	gram	1
+ilikli kemik	parça	300
+süt	paket	500
+ince bulgur	bardak	165
+ince bulgur	fincan	110
+ince bulgur	su bardağı	165
+ince bulgur	yemek kaşığı	12
+ince bulgur	çay bardağı	100
+mantar	su bardağı	160
+incir	adet	65
+incir	gram	1
+instant maya	paket	10
+instant maya	tatlı kaşığı	5
+irmik	avuç	30
+irmik	bardak	200
+irmik	gram	1
+irmik	kahve fincanı	60
+irmik	kaşık	10
+irmik	kilo	1000
+irmik	paket	500
+irmik	su bardağı	200
+irmik	yemek kaşığı	10
+irmik	çay bardağı	100
+irmik	çay kaşığı	2
+irmik	çorba kaşığı	10
+isot	yemek kaşığı	15
+isot	çorba kaşığı	15
+istavrit	gram	1
+istiridye sosu	yemek kaşığı	10
+istiridye sosu	çay kaşığı	2
+istiridye sosu	çorba kaşığı	10
+iç badem		25
+iç bakla	su bardağı	130
+iç midye	adet	15
+iç yağı	gram	1
+işkembe	gram	1
+jalapeno biber	adet	40
+jalapeno biberi	gram	1
+jalapeno biberi	çay bardağı	50
+jambon	dilim	30
+jambon	gram	1
+jelatin	gram	1
+jelatin	paket	85
+jelatin	tatlı kaşığı	7
+jelatin	yaprak	5
+sucuk	dilim	8
+jöle		50
+jöle	litre	1000
+jöle	paket	50
+jöle	yemek kaşığı	10
+kabak		150
+kabak	adet	150
+kabak	gram	1
+kabak	kilo	1000
+kabak	su bardağı	75
+kabak	tane	150
+kabak çekirdeği		10
+kabak çekirdeği	avuç	10
+kabak çekirdeği	gram	1
+kabak çekirdeği	yemek kaşığı	8
+kabak çekirdeği	çay bardağı	100
+kabak çekirdeği	çorba kaşığı	8
+kabartma tozu	adet	11
+kabartma tozu	gram	1
+kabartma tozu	kaşık	12
+kabartma tozu	paket	11
+kabartma tozu	tatlı kaşığı	4
+kabartma tozu	yemek kaşığı	12
+kabartma tozu	çay bardağı	80
+kabartma tozu	çay kaşığı	1
+kabartma tozu	çorba kaşığı	12
+kabuk tarçın	adet	5
+kadayıf	gram	1
+kahve	bardak	170
+kahve	fincan	10
+kahve	kaşık	10
+kahve	su bardağı	170
+kahve	tane	1
+kahve	tatlı kaşığı	5
+kahve	çay bardağı	100
+kahve	çay kaşığı	2
+kahve	çorba kaşığı	10
+kahve likörü	litre	750
+kahve likörü	yemek kaşığı	12
+kahverengi şeker	su bardağı	150
+kaju	adet	5
+kakao	bardak	10
+kakao	bağ	10
+kakao	gram	1
+kakao	kase	100
+kakao	kaşık	10
+kakao	paket	50
+kakao	yemek kaşığı	10
+kakaolu fındık kreması	bardak	150
+kakaolu fındık kreması	su bardağı	150
+kakaolu kavrulmuş bisküvi	paket	175
+kakaolu kek	dilim	20
+kakaolu kek	paket	180
+kakaolu kremalı bisküvi	adet	15
+kakaolu kremalı kurabiye	adet	20
+kakaolu pirinç patlağı	gram	1
+kakaolu puding	paket	156
+kakaolu pötibör bisküvi.	paket	175
+kakule	adet	3
+kakule	tatlı kaşığı	5
+kakule	çay kaşığı	2
+kalamar	adet	60
+kalamar	dilim	30
+kalamar	gram	1
+kalkan balığı	parça	30
+kalkan fileto	parça	30
+kalçalı but	adet	30
+kan portakalı suyu	litre	1000
+kan portakalı suyu	yemek kaşığı	10
+kanat	adet	20
+kanola yağı	çorba kaşığı	12
+kapari	gram	1
+kapari	kaşık	9
+kapari	parça	9
+kapari	su bardağı	120
+kapari	yemek kaşığı	9
+kapari	çorba kaşığı	9
+kapya biber	adet	50
+kapya biber	tane	50
+kapya biberi	gram	1
+kara biber	tatlı kaşığı	5
+kara biber	çay kaşığı	2
+kara havuç	gram	1
+karabiber	adet	1
+karabiber	gram	1
+karabiber	tane	1
+karabiber	tatlı kaşığı	5
+karabiber	tutam	2
+karabiber	yemek kaşığı	10
+karabiber	çay kaşığı	2
+karabiber	çorba kaşığı	10
+karabuğday	çay bardağı	50
+karabuğday unu	bardak	140
+karabuğday unu	yemek kaşığı	20
+karaciğer	adet	500
+karadut		5
+karadut	gram	1
+karalahana	demet	75
+karalahana	gram	1
+karalahana	yaprak	15
+karamel kıtırı	gram	1
+karamel sos	su bardağı	200
+karamel sos	çay bardağı	100
+karamelli dondurma	paket	250
+karanfil	adet	2
+karanfil	avuç	30
+karanfil	diş	12
+karanfil	gram	1
+karanfil	tane	2
+karanfil	tatlı kaşığı	14
+karanfil	tutam	4
+karanfil	çay kaşığı	5
+karanfilin top kısmı	adet	1
+karbonat	gram	1
+karbonat	paket	10
+karbonat	tatlı kaşığı	5
+karbonat	tutam	2
+karbonat	çay kaşığı	2
+karides		20
+karides	adet	20
+karides	gram	1
+karides	su bardağı	150
+karnabahar	adet	600
+karnabahar	bardak	200
+karnabahar	gram	1
+karnabahar	parça	50
+karnabahar	su bardağı	200
+karnabahar çiçeği	parça	10
+karpuz	adet	7000
+karpuz	dilim	350
+karpuz	gram	1
+karpuz suyu	su bardağı	170
+buğday ve pirinç gevreği	gram	1
+karışık tohum	yemek kaşığı	10
+kaşar	kaşık	20
+kaşar peyniri	kaşık	20
+katı yağ	gram	1
+katı yağ	kaşık	14
+katı yağ	yemek kaşığı	14
+kavun	adet	1200
+kavun	dilim	180
+kavun	gram	1
+kavurma	gram	1
+kaya koruğu turşusu	su bardağı	225
+kaymak	fincan	70
+kaymak	gram	1
+kaymak	yemek kaşığı	10
+kaymak	çorba kaşığı	10
+kaymaklı süt	su bardağı	200
+kaymaksız yoğurt	gram	1
+kaymaksız yoğurt	kaşık	10
+kaymaksız yoğurt	su bardağı	200
+kaynar su		20
+kaynar su	bardak	200
+kaynar su	kaşık	10
+kaynar su	litre	1000
+kaynar su	su bardağı	200
+kaynar su	yemek kaşığı	10
+kaynar su	çorba kaşığı	10
+kayısı	adet	30
+kayısı	gram	1
+kayısı	su bardağı	120
+kayısı marmeladı	gram	1
+kayısı marmeladı	çorba kaşığı	10
+kaşar	 kahve fincanı	60
+kaşar	 su bardağı	200
+kaşar	 tatlı kaşığı	10
+kaşar	 çay bardağı	70
+kaşar	 çay kaşığı	5
+kaşar	 çorba kaşığı	20
+kaşar	adet	25
+kaşar	bardak	200
+kaşar	dilim	25
+kaşar	fincan	80
+kaşar	gram	1
+kaşar	kase	150
+kaşar	kutu	250
+kaşar	su bardağı	200
+kaşar	yaprak	20
+kaşar	yemek kaşığı	20
+kaşar	çay bardağı	70
+kaşar	çay kaşığı	5
+kaşar	çorba kaşığı	20
+kedi dili	adet	10
+kedi dili	gram	1
+kedi dili	paket	100
+kefal	adet	350
+kefir	litre	1000
+kefir	su bardağı	200
+kek		750
+kek	adet	750
+kek	su bardağı	150
+kek karışımı	yemek kaşığı	150
+kek karışımı	çay bardağı	70
+kekik		2
+kekik	dal	2
+kekik	gram	1
+kekik	paket	100
+kekik	tatlı kaşığı	5
+kekik	tutam	1
+kekik	yaprak	2
+kekik	yemek kaşığı	10
+kekik	çay kaşığı	2
+kekik	çorba kaşığı	10
+kelek	adet	130
+kemikli et	gram	1
+kenevir	yemek kaşığı	30
+kepek	su bardağı	150
+kepek unu	gram	1
+kepekli ekmek	adet	300
+kepekli ekmek	dilim	25
+kepekli makarna	bardak	150
+kepekli makarna	paket	350
+kepekli un	gram	1
+kepekli un	su bardağı	150
+kepekli un	yemek kaşığı	20
+kereviz	adet	200
+kereviz	dal	10
+kereviz	gram	1
+kereviz	tane	200
+kereviz sapı	adet	100
+kereviz sapı	bağ	100
+kereviz sapı	dal	10
+kereviz sapı	demet	100
+kereviz sapı	fincan	60
+kereviz sapı	tane	10
+kereviz sapı	tutam	2
+kereviz yaprağı	adet	10
+kereviz yaprağı	dal	10
+kereviz yaprağı	tutam	2
+kesme şeker	adet	4
+kesme şeker	tane	4
+kestane	bardak	150
+kestane	gram	1
+kestane	kase	60
+kestane	su bardağı	150
+kestane	çorba kaşığı	11
+kestane şurubu	fincan	60
+keten tohumu	gram	1
+keten tohumu	kaşık	15
+keten tohumu	su bardağı	150
+keten tohumu	tatlı kaşığı	7
+keten tohumu	yemek kaşığı	15
+keten tohumu	çay bardağı	70
+keten tohumu	çay kaşığı	5
+keten tohumu	çorba kaşığı	15
+ketçap	gram	1
+ketçap	kaşık	20
+ketçap	su bardağı	300
+ketçap	tatlı kaşığı	8
+ketçap	yemek kaşığı	20
+ketçap	çorba kaşığı	20
+keçi	 yemek kaşığı	10
+keçi boynuzu özütü	fincan	60
+keçi boynuzu özütü	yemek kaşığı	6
+keçi boynuzu özütü	çorba kaşığı	6
+keçi paçası	adet	200
+keçi peyniri	dilim	25
+keçi peyniri	gram	1
+keçi peyniri	yemek kaşığı	15
+keçi sütü	gram	1
+keçi yoğurdu	çay bardağı	80
+kimyon	gram	1
+kimyon	tatlı kaşığı	4
+kimyon	tutam	1
+kimyon	yemek kaşığı	15
+kimyon	çay kaşığı	2
+kimyon	çorba kaşığı	10
+kinoa	gram	1
+kinoa	su bardağı	126
+kinoa	yemek kaşığı	12
+kinoa	çay bardağı	86
+kinoa	çorba kaşığı	12
+kiraz		7
+kiraz	adet	7
+kiraz	gram	1
+kiraz	su bardağı	80
+kiraz domates	adet	10
+kiraz domates	bardak	90
+kiraz domates	gram	1
+kiraz püresi	bardak	110
+kiraz şekeri	çay bardağı	100
+kivi		100
+kivi	adet	100
+kişniş	adet	2
+kişniş	dal	2
+kişniş	demet	150
+kişniş	fincan	100
+kişniş	tatlı kaşığı	5
+kişniş	yemek kaşığı	10
+kişniş	çay bardağı	75
+kişniş	çay kaşığı	3
+kişniş	çorba kaşığı	10
+konserve bezelye	kutu	300
+konserve garnitür	kutu	560
+konserve mantar	yemek kaşığı	10
+konyak	yemek kaşığı	10
+kornişon	bardak	20
+kornişon turşu	adet	20
+kornişon turşu	su bardağı	150
+koruk		5
+koruk ekşisi	tatlı kaşığı	5
+koruk ekşisi	çay kaşığı	2
+koruk suyu	çorba kaşığı	12
+krem peynir	gram	1
+krem peynir	paket	300
+krem peynir	su bardağı	250
+krem peynir	tatlı kaşığı	7
+krem peynir	yemek kaşığı	25
+krem çikolata		10
+krem çikolata	çorba kaşığı	10
+krem şanti	gram	1
+krem şanti	paket	75
+krem şanti	yemek kaşığı	10
+krema	bardak	300
+krema	fincan	120
+krema	gram	1
+krema	kutu	200
+krema	litre	1000
+krema	paket	200
+krema	su bardağı	10
+krema	yemek kaşığı	10
+krep hamuru karışımı	gram	1
+kruton ekmeği	çay bardağı	100
+ksantam gamı	çay kaşığı	3
+kurkuma	çay kaşığı	3
+kuru acı biber	adet	2
+kuru bakla	gram	1
+kuru bakla	su bardağı	150
+kuru börülce	gram	1
+kuru dolma	bağ	90
+kuru domates	gram	1
+kuru domates	parça	3
+kuru domates	su bardağı	100
+kuru domates	çay bardağı	20
+kuru elma	gram	1
+kuru elma	kase	48
+kuru erik		10
+kuru erik	adet	10
+kuru erik	gram	1
+kuru fasulye	bardak	160
+kuru fasulye	gram	1
+kuru hurma	adet	15
+kuru hurma	gram	1
+kuru incir		20
+kuru incir	adet	20
+kuru incir	gram	1
+kuru kayısı	adet	10
+kuru kayısı	bardak	200
+kuru kayısı	gram	1
+kuru kayısı	su bardağı	200
+kuru kızılcık	gram	1
+kuru lavanta	gram	1
+kuru maya	bardak	250
+kuru maya	paket	10
+kuru maya	tatlı kaşığı	8
+kuru maya	yemek kaşığı	18
+kuru meyve	gram	1
+kuru meyve	su bardağı	150
+kuru mürdüm eriği	adet	3
+kuru mürdüm eriği	gram	1
+kuru mürdüm eriği	kase	45
+kuru soğan		100
+kuru soğan	adet	100
+kuru soğan	gram	1
+kuru soğan	tane	100
+kuruyemiş	kase	100
+kuru üzüm	adet	2
+kuru üzüm	avuç	30
+kuru üzüm	bardak	200
+kuru üzüm	fincan	130
+kuru üzüm	gram	1
+kuru üzüm	kahve fincanı	80
+kuru üzüm	kase	150
+kuru üzüm	su bardağı	200
+kuru üzüm	yemek kaşığı	10
+kuru üzüm	çay bardağı	100
+kuru üzüm	çorba kaşığı	10
+kurutulmuş ananas	çorba kaşığı	10
+kurutulmuş domates	adet	2
+kurutulmuş domates	gram	1
+kurutulmuş domates	parça	2
+kurutulmuş domates	su bardağı	100
+kurutulmuş domates	çay bardağı	40
+kurutulmuş kızılcık	gram	1
+kurutulmuş mandalina kabuğu	yemek kaşığı	8
+kurutulmuş mürdüm eriği	gram	1
+kurutulmuş sebze karışımı	çay bardağı	100
+kuskus	bardak	200
+kuskus	gram	1
+kuskus	paket	500
+kuskus	su bardağı	200
+kuskus	çay bardağı	100
+kuyruk yağı		10
+kuyruk yağı	gram	1
+kuyruk yağı	yemek kaşığı	10
+kuzu beyni	adet	300
+kuzu but	adet	200
+kuzu but	gram	1
+kuzu ciğeri	adet	200
+kuzu ciğeri	gram	1
+kuzu ciğeri	tane	200
+kuzu eti	gram	1
+kuzu eti	parça	30
+kuzu gerdanı	gram	1
+kuzu incik	adet	362
+kuzu incik	gram	1
+kuzu kaburgası	adet	150
+kuzu kelle	adet	1500
+kuzu kol	adet	500
+kuzu kuşbaşı	gram	1
+kuzu külbastı	adet	90
+kuzu paça	parça	100
+kuzu pirzola	adet	60
+kuzu pirzola	gram	1
+kuzu şaşlık	adet	70
+kuzu şiş	gram	1
+kuzukulağı	demet	100
+kuş üzümü	avuç	15
+kuş üzümü	bardak	125
+kuş üzümü	gram	1
+kuş üzümü	kahve fincanı	50
+kuş üzümü	su bardağı	125
+kuş üzümü	tatlı kaşığı	3
+kuş üzümü	yemek kaşığı	10
+kuş üzümü	çay bardağı	60
+kuş üzümü	çorba kaşığı	10
+kuşbaşı	gram	1
+kuşbaşı et	gram	1
+kuşbaşı et	kase	120
+kuşbaşı et	kilo	1000
+kuşburnu	gram	1
+kuşkonmaz	adet	5
+kuşkonmaz	dal	5
+kuşkonmaz	demet	100
+kuşkonmaz	gram	1
+köfte	adet	40
+köfte baharı	yemek kaşığı	10
+köfte harcı		82
+köfte harcı	gram	1
+köfte harcı	paket	82
+köfte harcı	yemek kaşığı	10
+kömbe baharatı	tatlı kaşığı	5
+köpüklü şarap	su bardağı	150
+köri	tatlı kaşığı	5
+köri	çay kaşığı	2
+köri	çorba kaşığı	10
+köy ekmeği	adet	500
+köy ekmeği	dilim	50
+kültür mantarı	adet	30
+kültür mantarı	gram	1
+kültür mantarı	paket	400
+kültür mantarı	su bardağı	150
+küp şeker	adet	4
+kürdan	adet	1
+kılıç balığı	adet	200
+kılıç balığı	gram	1
+kırlangıç balığı	adet	300
+kırma zeytin	gram	1
+kırmızı arnavut biberi	adet	15
+kırmızı balık yumurtası	çay kaşığı	2
+kırmızı biber		50
+kırmızı biber	adet	50
+kırmızı biber	dilim	5
+kırmızı biber	gram	1
+kırmızı biber	kaşık	10
+kırmızı biber	tane	50
+kırmızı biber	tatlı kaşığı	4
+kırmızı biber	tutam	2
+kırmızı biber	yemek kaşığı	10
+kırmızı biber	çay kaşığı	2
+kırmızı biber	çorba kaşığı	10
+kırmızı dolma biber	adet	40
+kırmızı erik	gram	1
+kırmızı havyar	gram	1
+kırmızı köz biber	adet	80
+kırmızı lahana	adet	320
+kırmızı lahana	yaprak	10
+kırmızı marul	dal	10
+kırmızı mercimek	bardak	170
+kırmızı mercimek	gram	1
+kırmızı mercimek	kaşık	10
+kırmızı mercimek	yemek kaşığı	10
+kırmızı orman meyveleri	gram	1
+kırmızı orman meyveleri	su bardağı	160
+kırmızı pancar	gram	1
+kırmızı pul biber	tatlı kaşığı	5
+kırmızı pul biber	tutam	2
+kırmızı pul biber	yemek kaşığı	10
+kırmızı pul biber	çay kaşığı	2
+kırmızı pul biber	çorba kaşığı	10
+kırmızı soğan	adet	100
+kırmızı soğan	fincan	80
+kırmızı soğan	tane	100
+kırmızı soğan	yemek kaşığı	10
+kırmızı toz biber		5
+kırmızı toz biber	tatlı kaşığı	5
+kırmızı toz biber	tutam	2
+kırmızı toz biber	yemek kaşığı	10
+kırmızı toz biber	çay kaşığı	2
+kırmızı turp	adet	135
+kırmızı turp	gram	1
+kırmızı üzüm	adet	1
+kırmızı üzüm	gram	1
+kırmızı şarap	kahve fincanı	70
+kırmızı şarap	litre	750
+kırmızı şarap	su bardağı	150
+kırmızı şarap	çorba kaşığı	12
+kıvırcık	adet	500
+kıvırcık	demet	100
+kıvırcık	yaprak	10
+kıyma		1000
+kıyma	bardak	200
+kıyma	gram	1
+kıyma	kilo	1000
+kıyma	su bardağı	200
+kıyma	tatlı kaşığı	5
+kıyma	yemek kaşığı	15
+kızılcık	avuç	30
+kızılcık	gram	1
+kızılcık sosu	gram	1
+kızılcık sosu	çay kaşığı	2
+kızılcık suyu	su bardağı	180
+labne		200
+labne	gram	1
+labne	kaşık	15
+labne	kutu	200
+labne	paket	200
+labne	su bardağı	225
+labne	tatlı kaşığı	5
+labne	yemek kaşığı	15
+labne	çay bardağı	120
+labne	çorba kaşığı	15
+lahana	adet	90
+lahana	bardak	25
+lahana	gram	1
+lahana	kase	30
+lahana	yaprak	15
+lahana yaprağı	adet	15
+lahana yaprağı	kilo	1000
+lavaş	adet	65
+lavaş	paket	650
+lazanya	adet	150
+lazanya	paket	500
+leblebi tozu	su bardağı	200
+levrek	adet	600
+levrek	gram	1
+levrek	parça	60
+lime	adet	80
+limon	adet	100
+limon	damla	1
+limon	dilim	15
+limon	gram	1
+limon	tane	100
+limon	tatlı kaşığı	3
+limon	çay kaşığı	1
+limon	çorba kaşığı	7
+limon jölesi	paket	100
+limon kabuğu	adet	15
+limon kabuğu	tatlı kaşığı	5
+limon kabuğu	yemek kaşığı	8
+limon kabuğu	çay bardağı	50
+limon kabuğu	çay kaşığı	2
+limon likörü	kaşık	12
+limon suyu		60
+limon suyu	adet	60
+limon suyu	bardak	150
+limon suyu	damla	2
+limon suyu	fincan	80
+limon suyu	kahve fincanı	60
+limon suyu	kaşık	10
+limon suyu	su bardağı	150
+limon suyu	tatlı kaşığı	5
+limon suyu	yemek kaşığı	10
+limon suyu	çay bardağı	75
+limon suyu	çay kaşığı	2
+limon suyu	çorba kaşığı	10
+limon tozu	gram	1
+limon tuzu	adet	10
+limon tuzu	gram	1
+limon tuzu	parça	10
+limon tuzu	tatlı kaşığı	10
+limon tuzu	çay kaşığı	4
+limon tuzu	çorba kaşığı	18
+limon özü	litre	1000
+linguine	paket	400
+lohusa şekeri	kutu	500
+lor		280
+lor	 bardak	280
+lor	 su bardağı	280
+lor	bardak	280
+lor	gram	1
+lor	kase	200
+lor	kilo	1000
+lor	su bardağı	280
+lor	yemek kaşığı	10
+lor	çay bardağı	140
+lüfer	adet	200
+mahlep	tatlı kaşığı	3
+mahlep	çay kaşığı	1
+mahlep	çorba kaşığı	16
+makademya fındığı	adet	3
+makarna	bardak	150
+makarna	gram	1
+mandalina	adet	125
+mandalina	gram	1
+mandalina suyu	adet	200
+mandalina suyu	bardak	200
+mango	adet	290
+mangolu dondurma	kaşık	10
+mantar	adet	15
+mantar	bardak	150
+mantar	gram	1
+mantar	kase	120
+mantar	kavanoz	450
+mantar	kilo	1000
+mantar	kutu	400
+mantar	paket	400
+mantar	yemek kaşığı	10
+mantar sosu	çay kaşığı	2
+mantı	kase	150
+mantı	paket	500
+margarin	su bardağı	220
+margarin	gram	1
+margarin	kaşık	14
+margarin	paket	250
+margarin	yemek kaşığı	7
+margarin	çay bardağı	100
+marmelat	tatlı kaşığı	5
+marshmallow	gram	1
+marshmallow dolgulu bisküvi	adet	12
+marul		100
+marul	adet	500
+marul	dal	10
+marul	demet	100
+marul	dilim	10
+marul	gram	1
+marul	kaşık	10
+marul	yaprak	10
+marul yaprağı	adet	10
+mascarpone	gram	1
+mascarpone	çorba kaşığı	15
+matcha	çay kaşığı	2
+mate	tatlı kaşığı	5
+mavi gıda boyası	damla	2
+mavi gıda boyası	çay kaşığı	2
+mavi haşhaş	bardak	150
+mavi haşhaş	yemek kaşığı	10
+maya		10
+maya	adet	10
+maya	bardak	225
+maya	gram	1
+maya	paket	10
+maya	tatlı kaşığı	6
+maya	yemek kaşığı	18
+maya	çay kaşığı	3
+maya	çorba kaşığı	18
+mayalı ekmek	gram	1
+maydanoz	avuç	30
+maydanoz	bardak	30
+maydanoz	bağ	150
+maydanoz	dal	2
+maydanoz	demet	150
+maydanoz	gram	1
+maydanoz	kahve fincanı	15
+maydanoz	kaşık	5
+maydanoz	su bardağı	30
+maydanoz	tane	2
+maydanoz	tatlı kaşığı	3
+maydanoz	tutam	3
+maydanoz	yemek kaşığı	5
+maydanoz	çay bardağı	30
+maydanoz	çay kaşığı	1
+maydanoz	çorba kaşığı	5
+maydanoz sapı	adet	2
+mayonez	bardak	210
+mayonez	gram	1
+mayonez	kase	150
+mayonez	kaşık	13
+mayonez	su bardağı	210
+mayonez	tatlı kaşığı	9
+mayonez	yemek kaşığı	13
+mayonez	çay bardağı	65
+mayonez	çay kaşığı	5
+mayonez	çorba kaşığı	13
+maş fasulyesi	bardak	200
+maş fasulyesi	su bardağı	200
+meksika biberi	dilim	5
+mercanköşk	dal	6
+mercanköşk	gram	1
+mercimek	gram	1
+mercimek	su bardağı	170
+mercimek	yemek kaşığı	10
+mercimek filizi		200
+meyve		100
+meyve	avuç	100
+meyve	gram	1
+meyve püresi	su bardağı	170
+meyve suyu	su bardağı	200
+meyveli musli	su bardağı	120
+mezgit	adet	250
+mezgit	gram	1
+mezgit	parça	50
+midye	adet	30
+midye	gram	1
+milföy		50
+milföy	adet	50
+milföy	dilim	50
+milföy	gram	1
+milföy	kare	50
+milföy	paket	500
+milföy	parça	50
+milföy	yaprak	50
+mor gıda boyası	çay kaşığı	2
+mor lahana	adet	320
+mor soğan	bardak	120
+mozzarella	fincan	125
+mozzarella	gram	1
+mozzarella	paket	125
+mozzarella	yemek kaşığı	12
+mozzarella topları	su bardağı	150
+muskat	adet	40
+muskat	tatlı kaşığı	5
+muskat	tutam	3
+muskat	çay kaşığı	2
+muz	adet	170
+muz	dilim	12
+muz	tane	170
+muzlu süt	bardak	180
+mürdüm eriği	adet	25
+mürdüm eriği	gram	1
+mürdüm eriği	su bardağı	125
+müsli	bardak	100
+mısır		100
+mısır	adet	100
+mısır	avuç	30
+mısır	bardak	180
+mısır	gram	1
+mısır	kase	65
+mısır	kutu	450
+mısır	su bardağı	180
+mısır	çay bardağı	90
+mısır	çorba kaşığı	20
+mısır cipsi	paket	180
+mısır gevreği	kase	50
+mısır gevreği	su bardağı	80
+mısır gevreği	yemek kaşığı	7
+mısır nişastası	fincan	90
+mısır nişastası	gram	1
+mısır nişastası	kahve fincanı	90
+mısır nişastası	paket	150
+mısır nişastası	su bardağı	150
+mısır nişastası	tatlı kaşığı	5
+mısır nişastası	yemek kaşığı	10
+mısır nişastası	çay bardağı	70
+mısır nişastası	çorba kaşığı	10
+mısır unu		15
+mısır unu	fincan	50
+mısır unu	gram	1
+mısır unu	kaşık	15
+mısır unu	yemek kaşığı	15
+mısır yarması	bardak	170
+nane		1
+nane	adet	1
+nane	bardak	200
+nane	bağ	100
+nane	dal	1
+nane	demet	100
+nane	fincan	80
+nane	kase	150
+nane	parça	1
+nane	tatlı kaşığı	2
+nane	tutam	3
+nane	yaprak	1
+nane	yemek kaşığı	3
+nane	çay kaşığı	1
+nane	çorba kaşığı	10
+nane likörü	litre	750
+nar	adet	160
+nar	gram	1
+nar	su bardağı	150
+nar	yemek kaşığı	10
+nar	çay bardağı	50
+nar ekşisi	kaşık	10
+nar ekşisi	dal	5
+nar ekşisi	gram	1
+nar ekşisi	kahve fincanı	56
+nar ekşisi	litre	750
+nar ekşisi	su bardağı	150
+nar ekşisi	tatlı kaşığı	5
+nar ekşisi	yemek kaşığı	10
+nar ekşisi	çay bardağı	70
+nar ekşisi	çorba kaşığı	10
+nar pekmezi	tatlı kaşığı	5
+nar pekmezi	yemek kaşığı	10
+nar suyu	su bardağı	200
+nar şurubu	bardak	125
+narenciye suyu	su bardağı	200
+nişasta	avuç	20
+nişasta	bardak	120
+nişasta	gram	1
+nişasta	kaşık	10
+nişasta	yemek kaşığı	10
+nohut	adet	6
+nohut	avuç	120
+nohut	bardak	120
+nohut	gram	1
+nohut	kase	200
+nohut	çay bardağı	60
+nohut unu	gram	1
+nohut unu	yemek kaşığı	15
+noodle	gram	1
+orman meyvesi	kase	180
+orman meyvesi	çay bardağı	100
+palamut	adet	280
+palamut	dilim	50
+palamut	gram	1
+pancar	adet	300
+pancar	gram	1
+pancar suyu	fincan	85
+pancar suyu	su bardağı	200
+pancar tozu	çorba kaşığı	10
+pancar turşusu	adet	10
+pancar turşusu	gram	1
+pandispanya		280
+pandispanya	adet	280
+pandispanya unu	paket	350
+pane harcı	yemek kaşığı	10
+panko	su bardağı	75
+papaya	gram	1
+paprika biber	adet	30
+parmesan	avuç	35
+parmesan	bardak	150
+parmesan	gram	1
+parmesan	su bardağı	150
+parmesan	yemek kaşığı	10
+parmesan	çay bardağı	70
+parmesan	çorba kaşığı	10
+pasta boncukları		250
+pasta keki	paket	280
+pasta süsü	yemek kaşığı	10
+pasta tabanı	paket	280
+pastis	litre	1000
+pastırma	adet	90
+pastırma	dilim	10
+pastırma	gram	1
+pastırma	parça	10
+patates		200
+patates	adet	200
+patates	gram	1
+patates	kase	250
+patates	kilo	1000
+patates	tane	213
+patates cipsi	bardak	100
+patlıcan		200
+patlıcan	adet	200
+patlıcan	gram	1
+patlıcan	kavanoz	250
+patlıcan	kilo	1000
+patlıcan	tane	200
+pazı	bağ	130
+pazı	demet	50
+pazı	gram	1
+pazı	yaprak	10
+pazı	adet	20
+paça	adet	250
+pecorino	gram	1
+pikan cevizi	fincan	20
+pikan cevizi	çay bardağı	10
+pekmez	bağ	100
+pekmez	gram	1
+pekmez	kahve fincanı	120
+pekmez	kase	150
+pekmez	su bardağı	200
+pekmez	yemek kaşığı	12
+pekmez	çay bardağı	100
+pekmez	çay kaşığı	2
+pekmez	çorba kaşığı	12
+pembe gıda boyası	damla	2
+pembe nişasta	paket	400
+pesto sos	kaşık	10
+pesto sos	tatlı kaşığı	6
+pesto sos	yemek kaşığı	10
+pesto sos	çorba kaşığı	10
+petibör bisküvi	adet	6
+peynir		500
+peynir	fincan	120
+peynir	gram	1
+peynir	paket	500
+peynir	parça	30
+peynir	su bardağı	160
+peynir	çay bardağı	80
+pide		260
+pide	adet	260
+pikan cevizi	gram	1
+piliç göğüs bonfile	paket	900
+piliç jambon	gram	1
+pirinç	avuç	30
+pirinç	bardak	180
+pirinç	fincan	140
+pirinç	gram	1
+pirinç	kase	150
+pirinç	kaşık	13
+pirinç	yemek kaşığı	13
+pirinç makarnası	kase	100
+pirinç makarnası	paket	400
+pirinç sirkesi	fincan	200
+pirinç sirkesi	kahve fincanı	200
+pirinç sirkesi	kaşık	12
+pirinç sirkesi	yemek kaşığı	12
+pirinç unu	bardak	160
+pirinç unu	gram	1
+pirinç unu	yemek kaşığı	10
+pirpirim	gram	1
+pirzola	adet	60
+pirzola	gram	1
+pita ekmeği	adet	60
+pizza hamuru	adet	200
+pizza hamuru	gram	1
+pizza unu	paket	1000
+portakal	adet	220
+portakal	dilim	30
+portakal	tane	220
+portakal	çorba kaşığı	10
+portakal kabuğu	adet	10
+portakal kabuğu	gram	1
+portakal kabuğu	çay kaşığı	2
+portakal kabuğu	çorba kaşığı	10
+portakal konsantresi	çay bardağı	75
+portakal likörü	litre	500
+portakal likörü	çorba kaşığı	8
+portakal rendesi	tatlı kaşığı	5
+portakal rendesi	yemek kaşığı	8
+portakal rendesi	çorba kaşığı	8
+portakal reçeli	fincan	100
+portakal reçeli	su bardağı	160
+portakal suyu	adet	200
+portakal suyu	bardak	200
+portakal suyu	kahve fincanı	120
+portakal suyu	litre	1000
+portakal suyu	su bardağı	200
+portakal suyu	yemek kaşığı	12
+portakal suyu	çay bardağı	100
+portakal suyu	çorba kaşığı	12
+portakallı gazoz	su bardağı	200
+pudra şekeri	bardak	150
+pudra şekeri	fincan	100
+pudra şekeri	gram	1
+pudra şekeri	kaşık	10
+pudra şekeri	paket	250
+pudra şekeri	yemek kaşığı	10
+pul biber		1
+pul biber	tatlı kaşığı	5
+pul biber	tutam	1
+pul biber	yemek kaşığı	10
+pul biber	çay bardağı	50
+pul biber	çay kaşığı	2
+pırasa	adet	50
+pırasa	dal	50
+pırasa	demet	300
+pırasa	gram	1
+pırasa	kilo	1000
+pırasa	tane	50
+ranch sos	litre	1200
+ravent kökü	gram	1
+renkli draje	paket	150
+renkli pasta süsü	çay bardağı	20
+reyhan	bardak	100
+reyhan	dal	5
+reyhan	demet	75
+reyhan	tatlı kaşığı	5
+reyhan	tutam	2
+reyhan	yaprak	5
+reyhan	yemek kaşığı	10
+reyhan	çay kaşığı	2
+reyhan	çorba kaşığı	10
+rezene	adet	10
+rezene	gram	1
+rezene	yemek kaşığı	10
+reçel	parça	10
+reçel	yemek kaşığı	10
+roka	adet	2
+roka	avuç	50
+roka	bağ	100
+roka	dal	2
+roka	demet	100
+roka	gram	1
+roka	su bardağı	150
+roka	tutam	2
+rokfor peyniri	gram	1
+rokfor peyniri	kutu	100
+rom	litre	900
+rom	yemek kaşığı	10
+roze şarabı	litre	750
+sade helva	yemek kaşığı	7
+sade kek	adet	50
+sade müsli	yemek kaşığı	10
+sade puding	paket	150
+saf keçiboynuzu özü	yemek kaşığı	10
+safran		5
+safran	tatlı kaşığı	5
+safran	yemek kaşığı	10
+safran	çay kaşığı	2
+sahlep	çorba kaşığı	12
+sakız	çay kaşığı	6
+sakızlı lokum	çay kaşığı	6
+salam		250
+salam	adet	250
+salam	dilim	20
+salam	gram	1
+salam	su bardağı	150
+salatalık	adet	120
+salatalık	dilim	5
+salatalık	gram	1
+salatalık	parça	5
+salatalık	su bardağı	100
+salatalık	çorba kaşığı	10
+salatalık turşusu	adet	35
+salatalık turşusu	bağ	175
+salatalık turşusu	kase	60
+salep	su bardağı	200
+salep	tatlı kaşığı	6
+salep	yemek kaşığı	12
+salep	çay bardağı	100
+salep	çorba kaşığı	12
+salsa fresca	fincan	54
+salça	kaşık	35
+salça	tatlı kaşığı	5
+salça	yemek kaşığı	35
+salça	çay kaşığı	2
+salça	çorba kaşığı	35
+salçalık biber	adet	20
+sandviç ekmeği	adet	65
+sardalye	adet	20
+sardalye	gram	1
+sardalye	parça	5
+sarı gıda boyası	damla	1
+sarı gıda boyası	çay kaşığı	2
+sarı mercimek	gram	1
+sarı mercimek	su bardağı	170
+sarı mercimek	yemek kaşığı	10
+sarı mercimek	çay bardağı	100
+sarı üzüm	bardak	150
+sarı üzüm	gram	1
+sarı üzüm	su bardağı	150
+sarı üzüm	yemek kaşığı	10
+sarı üzüm	çay bardağı	70
+sarı üzüm	çorba kaşığı	10
+sarımsak	adet	35
+sarımsak	demet	350
+sarımsak	diş	3
+sarımsak	gram	1
+sarımsak	tane	35
+sarımsak	yemek kaşığı	10
+sarımsak	çay kaşığı	2
+sarımsak tozu	tatlı kaşığı	5
+sarımsak tozu	yemek kaşığı	10
+sarımsak tozu	çay kaşığı	2
+sarımsak tozu	çimdik	1
+sarımsaklı yoğurt	su bardağı	200
+sebze	gram	1
+sebze bulyon	adet	10
+sebze bulyon	küp	10
+sebze bulyon	paket	120
+sebze bulyon suyu	litre	500
+sebze suyu	bardak	200
+sebze suyu	litre	100
+sebze suyu	su bardağı	200
+sek fino sherry	litre	500
+sek vermut	litre	500
+sek vermut	yemek kaşığı	10
+sele zeytin	gram	1
+semizotu	bardak	250
+semizotu	bağ	124
+semizotu	demet	124
+semizotu	gram	1
+simit		100
+simit	adet	100
+sirke	damla	2
+sirke	gram	1
+sirke	kaşık	10
+sirke	litre	1000
+sirke	yemek kaşığı	10
+sivri biber	adet	30
+sivri biber	gram	1
+sivri biber	parça	5
+sivri biber	tane	30
+siyah havyar	gram	1
+siyah mercimek	gram	1
+siyah zeytin	adet	4
+siyah zeytin	bardak	50
+siyah zeytin	gram	1
+siyah zeytin	kaşık	12
+siyah zeytin	su bardağı	50
+siyah zeytin	yemek kaşığı	12
+siyah zeytin	çay bardağı	25
+soda	bardak	200
+soda	litre	1000
+soda	su bardağı	200
+soda	çay bardağı	100
+somon	adet	200
+somon	dilim	200
+somon	gram	1
+somon	parça	200
+somon füme	adet	8
+somon füme	dilim	8
+somon füme	gram	1
+sos		15
+sosis		15
+sosis	adet	15
+sosis	dilim	5
+sosis	gram	1
+sosis	paket	400
+sosis	tane	15
+sosis	yemek kaşığı	15
+soya fasulyesi	bardak	50
+soya fasulyesi	su bardağı	50
+soya filizi	dal	3
+soya filizi	gram	1
+soya filizi	paket	125
+soya filizi	su bardağı	12
+soya filizi	yemek kaşığı	10
+soya filizi	çay kaşığı	2
+soya sosu	gram	1
+soya sosu	kaşık	10
+soya sosu	su bardağı	150
+soya sosu	tatlı kaşığı	5
+soya sosu	yemek kaşığı	10
+soya sosu	çay bardağı	100
+soya sosu	çay kaşığı	2
+soya sosu	çorba kaşığı	10
+soya sütü	bardak	200
+soya sütü	litre	1000
+soya sütü	su bardağı	200
+soya sütü	çorba kaşığı	15
+soya yağı	yemek kaşığı	10
+soyulmuş iç badem	gram	1
+soğan		75
+soğan	adet	75
+soğan	avuç	75
+soğan	bardak	150
+soğan	demet	150
+soğan	dilim	15
+soğan	fincan	100
+soğan	gram	1
+soğan	kaşık	10
+soğan	tane	75
+soğan	yemek kaşığı	10
+soğan	çorba kaşığı	10
+soğan tozu	tatlı kaşığı	5
+soğan tozu	yemek kaşığı	8
+soğuk demli çay	bardak	150
+spagetti	gram	1
+spagetti	paket	500
+stevia	adet	5
+su		200
+su	litre	1000
+su	adet	50
+su	avuç	3
+su	bardak	200
+su	fincan	85
+su	gram	1
+su	kase	150
+su	kaşık	15
+su	su bardağı	200
+su	tutam	1
+su	yemek kaşığı	15
+su böreklik yufka	paket	500
+sucuk		8
+sucuk	gram	1
+susam	avuç	50
+susam	gram	1
+susam	kase	150
+susam	kaşık	10
+susam	paket	30
+susam	yemek kaşığı	10
+susamsız simit	adet	100
+suşi pilavı	gram	1
+süt	bardak	200
+süt	fincan	75
+süt	gram	1
+süt	kaşık	12
+süt	litre	1000
+süt	yemek kaşığı	12
+süt kreması	gram	1
+süt kreması	kutu	200
+süt kreması	litre	1000
+süt kreması	su bardağı	200
+süt kreması	yemek kaşığı	25
+süt kreması	çay bardağı	90
+süzme yoğurt	bardak	90
+süzme yoğurt	gram	1
+süzme yoğurt	kase	90
+süzme yoğurt	kaşık	22
+süzme yoğurt	kilo	1000
+süzme yoğurt	litre	450
+süzme yoğurt	paket	500
+süzme yoğurt	su bardağı	90
+süzme yoğurt	yemek kaşığı	22
+süzme yoğurt	çay bardağı	45
+süzme yoğurt	çorba kaşığı	22
+sıcak çikolata	tane	19
+sıcak çikolata	tatlı kaşığı	5
+sıvı krema	gram	1
+sıvı krema	su bardağı	200
+sıvı yağ		175
+sıvı yağ	bardak	175
+sıvı yağ	fincan	150
+sıvı yağ	gram	1
+sıvı yağ	kase	160
+sıvı yağ	kaşık	12
+sıvı yağ	litre	900
+sıvı yağ	su bardağı	175
+sıvı yağ	tatlı kaşığı	5
+sıvı yağ	yemek kaşığı	12
+sıvı yağ	çay bardağı	20
+sıvı yağ	çorba kaşığı	12
+sığır eti	parça	75
+taco baharatı	çorba kaşığı	10
+tahin	bardak	150
+tahin	gram	1
+tahin	su bardağı	150
+tahin	tatlı kaşığı	5
+tahin	yemek kaşığı	15
+tahin	çay bardağı	80
+tahin	çorba kaşığı	15
+tam buğday burgu makarna	gram	1
+tam buğday ekmeği	dilim	20
+tam buğday ekmeği	gram	1
+tam buğday lavaş	adet	100
+tam buğday unu	gram	1
+tam buğday unu	su bardağı	110
+tam buğday unu	yemek kaşığı	10
+tam buğdaylı panini ekmeği	adet	220
+tamari sosu	yemek kaşığı	10
+tane karabiber	gram	1
+tane karabiber	tatlı kaşığı	5
+tane karabiber	çay kaşığı	2
+taneli hardal	tatlı kaşığı	5
+taneli hardal	yemek kaşığı	10
+tarama	gram	1
+tarhana	yemek kaşığı	16
+tart unu	paket	263
+tartar	çay kaşığı	2
+tarçın	bardak	150
+tarçın	gram	1
+tarçın	kaşık	10
+tarçın	parça	2
+tarçın	tutam	2
+tarçın	yemek kaşığı	10
+tarçın	çay kaşığı	1
+tarçın	çimdik	1
+tarçınlı votka	litre	1000
+tatlandırıcı		3
+tatlandırıcı	adet	5
+tatlandırıcı	su bardağı	150
+tatlandırıcı	tatlı kaşığı	5
+tatlandırıcı	yemek kaşığı	12
+tatlandırıcı	çorba kaşığı	12
+tatlı biber	adet	25
+tatlı biber	çay kaşığı	2
+tatlı chili sos	çorba kaşığı	10
+tatlı ekşi sos	su bardağı	150
+tatlı ekşi sos	çorba kaşığı	10
+tatlı tart tabanı	paket	300
+tavuk	adet	1250
+tavuk	fincan	200
+tavuk	gram	1
+tavuk	parça	200
+tavuk bacağı	parça	20
+tavuk but	adet	200
+tavuk but	paket	200
+tavuk bulyon		10
+tavuk bulyon	adet	10
+tavuk bulyon	paket	120
+tavuk but	gram	1
+tavuk ciğeri	gram	1
+tavuk eti	gram	1
+tavuk eti	parça	20
+tavuk göğsü		300
+tavuk göğsü	kase	30
+tavuk göğsü	su bardağı	30
+tavuk göğsü	tane	200
+tavuk göğsü	adet	200
+tavuk göğsü	gram	1
+tavuk göğsü	parça	30
+tavuk göğsü	yemek kaşığı	12
+tavuk kalça	adet	30
+tavuk kalça	gram	1
+tavuk kalça	parça	30
+tavuk kanat	adet	20
+tavuk kanat	gram	1
+tavuk pirzola	adet	150
+tavuk suyu	bardak	200
+tavuk suyu	fincan	100
+tavuk suyu	kase	150
+tavuk suyu	litre	1000
+tavuk suyu	su bardağı	200
+tavuk suyu	yemek kaşığı	200
+tavuk suyu	çay bardağı	90
+taze adaçayı yaprağı	tutam	4
+taze balık	adet	200
+taze bamya	su bardağı	110
+taze börülce	gram	1
+taze fasulye	adet	13
+taze fasulye	bardak	110
+taze fasulye	gram	1
+taze fesleğen	gram	1
+taze fesleğen	yaprak	5
+taze soğan	adet	20
+taze soğan	avuç	10
+taze soğan	bardak	20
+taze soğan	bağ	60
+taze soğan	dal	10
+taze soğan	demet	60
+taze soğan	gram	1
+taze soğan	yemek kaşığı	5
+taze yonca filizi	paket	100
+tekila	litre	900
+tekir balığı	gram	1
+tel şehriye	kahve fincanı	50
+tel şehriye	su bardağı	100
+tel şehriye	yemek kaşığı	10
+tel şehriye	çay bardağı	75
+tel şehriye	çorba kaşığı	10
+tere tohumu	çay kaşığı	2
+tereyağı	bardak	190
+tereyağı	dilim	30
+tereyağı	fincan	90
+tereyağı	gram	1
+tereyağı	kahve fincanı	90
+tereyağı	kase	150
+tereyağı	kaşık	20
+tereyağı	paket	50
+tereyağı	su bardağı	190
+tereyağı	tatlı kaşığı	5
+tereyağı	yemek kaşığı	20
+tereyağı	çay bardağı	80
+tereyağı	çorba kaşığı	20
+tombik ekmek	adet	100
+ton balığı	adet	30
+ton balığı	dilim	30
+ton balığı	gram	1
+ton balığı	kutu	120
+ton balığı	su bardağı	80
+ton balığı filetosu	adet	125
+tortellini	paket	250
+tortilla	adet	16
+tost ekmeği	adet	30
+tost ekmeği	dilim	30
+tost ekmeği	gram	11
+toz biber	tatlı kaşığı	4
+toz bulyon	yemek kaşığı	15
+toz fıstık	kase	150
+toz fıstık	yemek kaşığı	10
+toz jelatin	gram	1
+toz kakule	çay kaşığı	3
+toz karanfil	çay kaşığı	2
+toz kişniş	çay kaşığı	3
+toz krem şanti	paket	75
+toz krema	paket	100
+toz kırmızı biber		1
+toz kırmızı biber	kaşık	10
+toz kırmızı biber	tatlı kaşığı	4
+toz kırmızı biber	tutam	1
+toz kırmızı biber	yemek kaşığı	10
+toz salep	yemek kaşığı	10
+toz tarhana	yemek kaşığı	16
+toz tartar	çay kaşığı	2
+toz tarçın	gram	1
+toz tarçın	çay kaşığı	1
+toz tatlandırıcı	su bardağı	150
+toz tatlandırıcı	çorba kaşığı	10
+toz tatlı biber	çay kaşığı	2
+toz vanilya	tatlı kaşığı	5
+toz yeşil fıstık	yemek kaşığı	10
+toz zencefil	gram	1
+toz zencefil	tatlı kaşığı	5
+toz zencefil	çay kaşığı	2
+toz zerdeçal	çay kaşığı	2
+toz zerdeçal	tutam	2
+toz şeker	bardak	143
+toz şeker	fincan	80
+toz şeker	gram	1
+toz şeker	kase	100
+toz şeker	kaşık	12
+toz şeker	kilo	1000
+toz şeker	su bardağı	143
+toz şeker	tane	1
+toz şeker	tutam	2
+toz şeker	yemek kaşığı	12
+trüf yağı	çorba kaşığı	12
+tulum		 50
+tulum	 avuç	10
+tulum	 su bardağı	50
+tulum	 yemek kaşığı	5
+tulum	avuç	40
+tulum	bardak	50
+tulum	dilim	30
+tulum	gram	1
+tulum	su bardağı	50
+tulum	yemek kaşığı	5
+tulum	çay bardağı	50
+turna yemişi	gram	1
+turna yemişi suyu	litre	500
+turp	adet	150
+turp	dilim	10
+turp	gram	1
+turp otu	demet	130
+turta hamuru	gram	1
+turuncu gıda boyası	çay kaşığı	2
+turşu	adet	10
+tuz	tutam	1
+tuz	yemek kaşığı	10
+tuz	çimdik	1
+tuzlu kraker	adet	1
+tuzlu kraker	paket	36
+tuzsuz badem	gram	1
+tuzsuz iç badem	gram	1
+tuzsuz tereyağı	gram	1
+tuzsuz tereyağı	tatlı kaşığı	5
+tuzsuz yer fıstığı	gram	1
+un	avuç	40
+un	bardak	110
+un	fincan	50
+un	gram	1
+un	kase	130
+un	kaşık	10
+un	yemek kaşığı	10
+uskumru	adet	85
+uskumru	gram	1
+uykuluk	gram	1
+vanilya	adet	5
+vanilya	gram	1
+vanilya	kaşık	5
+vanilya	paket	10
+vanilya	tatlı kaşığı	3
+vanilya	çay kaşığı	2
+vanilya	çorba kaşığı	5
+vanilya aramoası	tatlı kaşığı	5
+vanilya aramoası	yemek kaşığı	10
+vanilya aramoası	çay kaşığı	2
+vanilya aroması	damla	2
+vanilya aroması	tatlı kaşığı	4
+vanilya aroması	yemek kaşığı	8
+vanilya aroması	çay kaşığı	2
+vanilya ezmesi	yemek kaşığı	10
+vanilyalı dondurma	gram	1
+vanilyalı dondurma	litre	900
+vanilyalı dondurma	paket	500
+vanilyalı puding	paket	125
+vanilyalı puding	yemek kaşığı	15
+viski	su bardağı	90
+viski	tatlı kaşığı	2
+viski	çorba kaşığı	5
+vişne	adet	5
+vişne	bardak	150
+vişne	gram	1
+vişne	kase	120
+vişne	su bardağı	150
+vişne jölesi	paket	20
+vişne suyu	litre	100
+vişne suyu	su bardağı	200
+votka	bardak	100
+votka	litre	500
+votka	su bardağı	100
+votka	çay bardağı	200
+wasabi	çorba kaşığı	8
+yaban havucu	adet	40
+yaban mersini	bardak	150
+yaban mersini	fincan	100
+yaban mersini	gram	1
+yaban mersini	kahve fincanı	100
+yaban mersini	kase	200
+yaban mersini	su bardağı	150
+yaban mersini	çay bardağı	80
+yaprak jelatin	adet	5
+yarma	su bardağı	150
+yasemin pirinci	gram	1
+yağ	gram	1
+yağ	litre	900
+yağ	su bardağı	180
+yağ	yemek kaşığı	12
+yağlı maraş pul biberi	gram	1
+yaş maya	adet	5
+yaş maya	gram	1
+yaş maya	paket	42
+yengeç bacağı	adet	10
+yengeç eti	gram	1
+yeni bahar		3
+yeni bahar	tatlı kaşığı	5
+yeni bahar	çay kaşığı	3
+yenibahar	gram	1
+yenibahar	tane	1
+yenibahar	tatlı kaşığı	5
+yenibahar	tutam	3
+yenibahar	yemek kaşığı	9
+yenibahar	çay kaşığı	3
+yenibahar	çorba kaşığı	9
+yer elması	adet	60
+yer elması	gram	1
+yer fıstığı	bardak	170
+yer fıstığı	fincan	80
+yer fıstığı	gram	1
+yer fıstığı	tatlı kaşığı	5
+yer fıstığı	yemek kaşığı	10
+yer fıstığı	çorba kaşığı	10
+yer fıstığı ezmesi	yemek kaşığı	11
+yeşil biber	adet	30
+yeşil biber	avuç	25
+yeşil biber	fincan	30
+yeşil biber	gram	1
+yeşil biber	tane	30
+yeşil erik	adet	20
+yeşil erik	gram	1
+yeşil fasulye	adet	10
+yeşil fasulye	gram	1
+yeşil fasulye	yemek kaşığı	15
+yeşil fıstık	yemek kaşığı	10
+yeşil fıstık	çorba kaşığı	10
+yeşil gıda boyası	çay kaşığı	1
+yeşil mercimek	bardak	150
+yeşil mercimek	gram	1
+yeşil mercimek	su bardağı	150
+yeşil mercimek	yemek kaşığı	10
+yeşil mercimek	çay bardağı	70
+yeşil salata yaprağı	adet	10
+yeşil sarımsak	adet	35
+yeşil soğan	adet	20
+yeşil soğan	dal	20
+yeşil soğan	demet	20
+yeşil soğan	gram	1
+yeşil soğan	su bardağı	20
+yeşil zeytin	adet	4
+yeşil zeytin	bardak	30
+yeşil zeytin	gram	1
+yeşil zeytin	kahve fincanı	20
+yeşil zeytin	kaşık	12
+yeşil zeytin	su bardağı	30
+yeşil zeytin	çay bardağı	15
+yeşil çay	bardak	200
+yeşil çay	su bardağı	200
+yeşil çay	tatlı kaşığı	4
+yeşillik	adet	1
+yeşillik	demet	75
+yeşillik	fincan	50
+yeşillik	gram	1
+yeşillik	paket	150
+yeşillik	çorba kaşığı	10
+yonca filizi	paket	100
+yoğurt	bardak	180
+yoğurt	fincan	75
+yoğurt	gram	1
+yoğurt	kase	180
+yoğurt	kaşık	45
+yoğurt	kutu	900
+yoğurt	litre	900
+yoğurt	yemek kaşığı	45
+yufka	adet	160
+yufka	gram	1
+yufka	tane	160
+yulaf	fincan	25
+yulaf	gram	1
+yulaf	kaşık	10
+yulaf	su bardağı	70
+yulaf	tatlı kaşığı	3
+yulaf	yemek kaşığı	10
+yulaf	çorba kaşığı	10
+yulaf kepeği	yemek kaşığı	10
+yulaf unu	gram	1
+yulaflı bisküvi	gram	1
+yulaflı bisküvi	paket	80
+yumurta		50
+yumurta	gram	1
+yumurta	tane	50
+yumurta akı	adet	25
+yumurta akı	gram	1
+yumurta akı	yemek kaşığı	14
+yumurta sarısı	adet	20
+yumurta sarısı	tane	20
+yumurtalı erişte	paket	350
+yumurta	adet	50
+yuvarlak pide	adet	100
+yıldız anason	adet	2
+zahter	demet	70
+zahter	tatlı kaşığı	7
+zahter	yemek kaşığı	140
+zencefil	adet	1
+zencefil	gram	1
+zencefil	kutu	115
+zencefil	parça	10
+zencefil	tatlı kaşığı	5
+zencefil	tutam	1
+zencefil	yemek kaşığı	10
+zencefil	çay kaşığı	2
+zencefil	çorba kaşığı	10
+zerdali	bardak	20
+zerdali kurusu	su bardağı	30
+zerdeçal	gram	1
+zerdeçal	tatlı kaşığı	5
+zerdeçal	tutam	2
+zerdeçal	çay kaşığı	2
+zerdeçal	çorba kaşığı	7
+zeytin	adet	4
+zeytin	bardak	30
+zeytin	dilim	1
+zeytin	gram	1
+zeytin	su bardağı	30
+zeytin	tane	4
+zeytin	tatlı kaşığı	8
+zeytin	yemek kaşığı	15
+zeytin ezmesi	tatlı kaşığı	5
+zeytin ezmesi	yemek kaşığı	10
+zeytin ezmesi	çay bardağı	200
+zeytinyağı	bardak	200
+zeytinyağı	litre	900
+zeytinyağı	su bardağı	200
+zeytinyağı	yemek kaşığı	6
+zeytinyağı	çay bardağı	120
+zeytinyağı	çay kaşığı	2
+zeytinyağı	çorba kaşığı	6
+zeytinyağı	kaşık	6
+zeytinyağı	fincan	200
+zeytinyağı	gram	1
+çarliston biber		60
+çedar peyniri		30
+çekirdek		20
+çeri domates		45
+çikolata		70
+çikolatalı mısır gevreği		100
+çilek		60
+çilek reçeli		50
+çin lahanası	bardak	30
+çökelek		30
+çörek otu	kahve fincanı	30
+çörek otu	su bardağı	100
+çörek otu	tatlı kaşığı	5
+çörek otu	çay bardağı	50
+çörek otu	çay kaşığı	2
+çörek otu	çorba kaşığı	15
+çöven otu		3
+çam fıstığı	gram	1
+çam fıstığı	tutam	15
+çam fıstığı	yemek kaşığı	30
+çam fıstığı	çorba kaşığı	30
+çarliston biber	adet	35
+çarliston biber	dilim	7
+çarliston biber	gram	1
+çarliston biber	kilo	100
+çavdar ekmeği	adet	350
+çavdar ekmeği	dilim	30
+çay	bardak	200
+çay	su bardağı	200
+çay	yemek kaşığı	10
+çağla	gram	1
+çedar peyniri	bardak	30
+çedar peyniri	yemek kaşığı	6
+çedene	yemek kaşığı	8
+çekirdek	yemek kaşığı	10
+çekirdeksiz üzüm	gram	1
+çemen	çay bardağı	80
+çemensiz pastırma	adet	10
+çemensiz pastırma	gram	1
+çeri domates	adet	15
+çeri domates	tane	15
+çeçil	su bardağı	150
+çeçil peyniri	su bardağı	150
+çifte kavrulmuş petitbeurre	paket	175
+çikolata	adet	10
+çikolata	damla	2
+çikolata	dilim	10
+çikolata	gram	1
+çikolata	kare	10
+çikolata	paket	70
+çikolata	parça	10
+çikolata	su bardağı	300
+çikolata	yemek kaşığı	20
+çikolata likörü	litre	600
+çikolata sosu		50
+çikolata sosu	paket	50
+çikolata sosu	yemek kaşığı	10
+çikolatalı draje	kutu	200
+çikolatalı fındık ezmesi	fincan	100
+çikolatalı puding	paket	60
+çikolatalı süt	su bardağı	200
+çikolatalı süt	yemek kaşığı	10
+çilek	adet	15
+çilek	avuç	60
+çilek	bardak	200
+çilek	gram	1
+çilek	kase	250
+çilek	su bardağı	200
+çilek aromalı soda		200
+çilek reçeli	yemek kaşığı	15
+çilek reçeli suyu	yemek kaşığı	10
+çilek suyu	yemek kaşığı	12
+çintar mantarı	adet	15
+çipura	adet	300
+çiçek enginar	adet	80
+çiğ kaju	gram	1
+çiğ krema	gram	1
+çiğ krema	kutu	200
+çiğ krema	litre	1000
+çiğ krema	paket	200
+çiğ krema	su bardağı	200
+çiğ krema	tatlı kaşığı	5
+çiğ krema	yemek kaşığı	10
+çiğ krema	çay bardağı	130
+çiğ krema	çorba kaşığı	10
+çiğ makadamya fındığı	adet	3
+çiğ süt kreması	su bardağı	120
+çubuk tarçın	adet	5
+çubuk tarçın	parça	5
+çubuk tarçın	tane	5
+çökelek	kase	230
+çökelek	su bardağı	200
+çökelek	yemek kaşığı	15
+çörek otu		5
+çörek otu	fincan	45
+çörek otu	kaşık	15
+çörek otu	tutam	2
+çörek otu	yemek kaşığı	15
+çözünen kahve	çay kaşığı	1
+çıtır pane harcı	paket	90
+üzüm	adet	1
+üzüm	avuç	45
+üzüm	gram	1
+üzüm	su bardağı	150
+üzüm	tatlı kaşığı	2
+üzüm pekmezi	gram	1
+üzüm pekmezi	tatlı kaşığı	5
+üzüm pekmezi	yemek kaşığı	12
+üzüm çekirdeği yağı	litre	800
+üzüm çekirdeği yağı	çorba kaşığı	10
+üzüm		150
+üzüm	bardak	150
+irmik	tatlı kaşığı	5
+irmik tulumu	dilim	30
+ıhlamur	tutam	2
+ıhlamur	çorba kaşığı	5
+ıspanak		51
+ıspanak	adet	5
+ıspanak	bardak	20
+ıspanak	bağ	51
+ıspanak	dal	5
+ıspanak	demet	300
+ıspanak	fincan	15
+ıspanak	gram	1
+ıspanak	kahve fincanı	15
+ıspanak	kase	20
+ıspanak	kilo	1000
+ıspanak	su bardağı	20
+ıspanak	tutam	10
+ıspanak	yaprak	5
+ıspanak püresi	yemek kaşığı	20
+ıspanak suyu	çay bardağı	100
+ıspanak	tane	5
+ısırgan otu	dal	25
+ısırgan otu	demet	50
+ızgara harcı	paket	90
+şalgam	çorba kaşığı	10
+şalgam suyu	bardak	200
+şalgam suyu	su bardağı	200
+şeftali		200
+şeftali	adet	200
+şeftali	gram	1
+şeftali likörü	su bardağı	120
+şeftali suyu	litre	1000
+şehriye	su bardağı	160
+şehriye	çorba kaşığı	20
+şeker		143
+şeker	kahve fincanı	50
+şeker	su bardağı	175
+şeker	adet	1
+şeker	bardak	143
+şeker	fincan	80
+şeker	gram	1
+şeker	kase	200
+şeker	kaşık	24
+şeker	kilo	1000
+şeker	küp	4
+şeker	paket	500
+şeker	tane	1
+şeker	tatlı kaşığı	4
+şeker	tutam	3
+şeker	yemek kaşığı	24
+şeker	çay bardağı	100
+şeker	çorba kaşığı	20
+şeker	çay kaşığı	2
+şeker hamuru		400
+şeker hamuru	kutu	400
+şekerli kahveli su	su bardağı	200
+şekerli vanilin	paket	10
+şekersiz elma konsantresi	litre	900
+şerbet	çorba kaşığı	12
+şevketibostan	gram	1
