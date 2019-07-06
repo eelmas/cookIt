@@ -5,12 +5,7 @@ import django.db.models.deletion
 
 
 class Migration(migrations.Migration):
-
     initial = True
-
-    run_before = [
-        ('recipes', '0001_initial'),
-    ]
 
     dependencies = [
         ('recipes', '0001_initial'),
@@ -25,7 +20,8 @@ class Migration(migrations.Migration):
                 ('isPositive', models.CharField(max_length=10, null=True)),
                 ('date', models.DateField(null=True)),
                 ('text', models.TextField(null=True)),
-                ('recipe', models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, to='recipes.Recipe')),
+                ('recipe',
+                 models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, to='recipes.Recipe')),
             ],
         ),
         migrations.CreateModel(
