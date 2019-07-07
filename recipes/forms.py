@@ -2,7 +2,7 @@ from django import forms
 
 # from recipes.models import MeasureTable
 
-f = open("OPTIONS.txt")
+f = open("cookit.pythonanywhere.com/recipes/OPTIONS.txt")
 
 
 class UserProduct(forms.Form):
