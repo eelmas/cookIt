@@ -26,17 +26,19 @@ selected_food = []
 
 # kullanıcıya malzeme seçtir
 def select_ingredients(request):
-    # MeasureTable.objects.all().delete()
-    # Food.objects.all().delete()
-    # read_food_calories("food_calories.txt")
-    # get_measure()
-    # Recipe.objects.all().delete()
-    # Ingredient.objects.all().delete()
-    # read_json_file()
-    # calculate_recipe_calorie()
-    # ProbabilityOfWords.objects.all().delete()
-    # read_file("comments/text_files/positives.txt")
-    # read_file("comments/text_files/negatives.txt")
+    #for database**********************************************************
+    MeasureTable.objects.all().delete()
+    Food.objects.all().delete()
+    read_food_calories("food_calories.txt")
+    get_measure()
+    Recipe.objects.all().delete()
+    Ingredient.objects.all().delete()
+    read_json_file()
+    calculate_recipe_calorie()
+    ProbabilityOfWords.objects.all().delete()
+    read_file("comments/text_files/positives.txt")
+    read_file("comments/text_files/negatives.txt")
+    #**********************************************************
     form = UserProduct()
     return render(request, 'recipes/home_page.html', {'form': form, 'selected_food': selected_food})
 
