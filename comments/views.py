@@ -6,10 +6,10 @@ import re
 
 def show_comment(request):
     ProbabilityOfWords.objects.all().delete()
-    read_file("comments/text_files/positives.txt")
-    read_file("comments/text_files/negatives.txt")
-    tag_comment_dataset("comments/text_files/test_positives.txt")
-    tag_comment_dataset("comments/text_files/test_negatives.txt")
+    read_file("cookit.pythonanywhere.com/comments/text_files/positives.txt")
+    read_file("cookit.pythonanywhere.com/comments/text_files/negatives.txt")
+    tag_comment_dataset("cookit.pythonanywhere.com/comments/text_files/test_positives.txt")
+    tag_comment_dataset("cookit.pythonanywhere.com/comments/text_files/test_negatives.txt")
     calculate_accuracy()
     # do_semantic_analysis("Tarif çok zor olsada yapmaya değer")
     # do_semantic_analysis("tarif yapması çok zor")
@@ -23,7 +23,7 @@ def read_file(file_name):
     word_count_pair = {}
 
     stopwords_file = \
-        open("comments/text_files/stopwords.txt", "r").read()
+        open("cookit.pythonanywhere.com/comments/text_files/stopwords.txt", "r").read()
     stopwords_list = stopwords_file.split("\n")
 
     file = open(file_name, "r").read()
@@ -100,7 +100,7 @@ def do_semantic_analysis(sentence):
     sentence_probability_of_positive = 1
     stem = stemmer('turkish')
 
-    stopwords_file = open("comments/text_files/stopwords.txt", "r").read()
+    stopwords_file = open("cookit.pythonanywhere.com/comments/text_files/stopwords.txt", "r").read()
     stopwords_list = stopwords_file.split("\n")
     words_list = sentence.split(" ")
     for word in words_list:

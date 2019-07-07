@@ -29,15 +29,15 @@ def select_ingredients(request):
     #for database**********************************************************
     MeasureTable.objects.all().delete()
     Food.objects.all().delete()
-    read_food_calories("food_calories.txt")
+    read_food_calories("cookit.pythonanywhere.com/food_calories.txt")
     get_measure()
     Recipe.objects.all().delete()
     Ingredient.objects.all().delete()
     read_json_file()
     calculate_recipe_calorie()
     ProbabilityOfWords.objects.all().delete()
-    read_file("comments/text_files/positives.txt")
-    read_file("comments/text_files/negatives.txt")
+    read_file("cookit.pythonanywhere.com/comments/text_files/positives.txt")
+    read_file("cookit.pythonanywhere.com/comments/text_files/negatives.txt")
     #**********************************************************
     form = UserProduct()
     return render(request, 'recipes/home_page.html', {'form': form, 'selected_food': selected_food})
@@ -142,7 +142,7 @@ def calculate_recipe_calorie():
 # ***
 # tariflerin bulunduğu json dosyasını okur ve tarifleri database'e atar.
 def read_json_file():
-    with open('all_recipes.json', 'r') as f:
+    with open('cookit.pythonanywhere.com/all_recipes.json', 'r') as f:
         all_recipes = json.load(f)
     for recipe in all_recipes["all_recipes"]:
         this_recipe = Recipe()
@@ -219,11 +219,11 @@ def create_recipes_db(request):
     if 'new_recipe_btn' in request.GET:
         get_all_recipes()
         calculate_recipe_calorie()
-        read_file("comments/text_files/positives.txt")
-        read_file("comments/text_files/negatives.txt")
+        read_file("cookit.pythonanywhere.com/comments/text_files/positives.txt")
+        read_file("cookit.pythonanywhere.com/comments/text_files/negatives.txt")
         return redirect('/manager_page')
     elif 'new_ingredient_btn' in request.GET:
-        read_food_calories("food_calories.txt")
+        read_food_calories("cookit.pythonanywhere.com/food_calories.txt")
         get_measure()
         return redirect('/manager_page')
     return render(request, 'recipes/manager_page.html', {})
@@ -274,7 +274,7 @@ def save_image_from_url(url):
 # tüm besinlerin belirlenen ölçüm aleti ile kaç grama denk geldiğini hesaplar.
 def get_measure():
     MeasureTable.objects.all().delete()
-    cwd = os.path.realpath("measure_table.txt")  # find measure.txt path in the project
+    cwd = os.path.realpath("cookit.pythonanywhere.com/measure_table.txt")  # find measure.txt path in the project
     data = [i.strip('\n').split('\t') for i in open(cwd)]  # open and split measure.txt
     for m in range(0, len(data)):
         # print(data[m])
@@ -680,7 +680,7 @@ def get_recipe(recipe_link):
 
 # geçici
 def delete_repeat():
-    f = open("measure_table.txt", "r").read().split("\n")
+    f = open("cookit.pythonanywhere.com/measure_table.txt", "r").read().split("\n")
     all_element = []
     for i in f:
         list = i.split("\t")
@@ -730,7 +730,7 @@ def clean_measuretable(i, malzemeler):
 # measure_table.txt yi kontrol eder eğer eksik malzeme varsa gram dönüşümü
 # (örneğin bir bardak kaç gram?)hariç dosyaya ekler
 def write_measure_table_file(clean_name, measurement_unit):
-    file = open("deneme.txt", "a+")
+    file = open("cookit.pythonanywhere.com/deneme.txt", "a+")
     i = clean_name.lower() + "\t" + measurement_unit.lower()
     print("****")
     print(i)
